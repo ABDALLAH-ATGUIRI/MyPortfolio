@@ -4,7 +4,7 @@ import GithubIcon from "@material-ui/icons/GitHub"
 import LinkedInIcon from "@material-ui/icons/LinkedIn"
 
 export default {
-    name: "Sam is coding",
+    name: "ABDALLAH ATGUIRI",
     title: "Full stack developer",
     birthday: "06th December 1999",
     email: "wahbidox@gmail.com",
