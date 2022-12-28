@@ -16,7 +16,7 @@
     color: #9c9c9c;
 }
 
-.footer /.footer_copyright > a {
+.footer .footer_copyright > a {
     text-decoration: none;
     color: var(--main-color);
 }

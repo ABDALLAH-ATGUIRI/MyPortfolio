@@ -32,6 +32,7 @@ export default {
             icon: <GithubIcon />
         }
 
-    }
+    },
+    about: "🌱 I’m currently learning Javascrept, React.js, Laravel, NodeJs \n\n 🤝 I’m looking for help with my professional career \n\n 📝 I regularly write articles on atguiri.com \n\n📫 How to reach me AbdallahAtguiri @gmail.com \n\n📄 Know about my experiences atguiri.com \n\n⚡ Fun fact When I am not coding you can find me playing gym or having fun with friends."
 
 }

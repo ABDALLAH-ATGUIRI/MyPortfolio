@@ -30,7 +30,9 @@ function App() {
           </Grid>
           <Grid item className='container_page'>
             <Header />
-            <RouterProvider router={router} />
+            <div className='main-content container_shadow'>
+              <RouterProvider router={router} />
+            </div>
             <Footer />
           </Grid>
         </Grid>
