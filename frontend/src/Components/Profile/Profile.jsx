@@ -1,4 +1,4 @@
-import { Typography } from '@material-ui/core'
+import { Grid, Typography } from '@material-ui/core'
 import CustomTimeline, { CustomTimelineSeparator } from '../TimeLine/Timeline';
 import resumeData from '../../utils/resumeData';
 import PersonOutlineOutlinedIcon from "@material-ui/icons/PersonOutlineOutlined"
@@ -6,6 +6,8 @@ import React from 'react'
 import './Profile.css';
 import TimelineItem from '@material-ui/lab/TimelineItem';
 import TimelineConnector from '@material-ui/lab/TimelineConnector';
+import CustomButton from '../Button/Button'
+import GetAppIcon from "@material-ui/icons/GetApp"
 
 const CustomTimelineItem = ({ title, text, link }) => (
     <TimelineItem>
@@ -41,8 +43,10 @@ function Profile() {
                             ))
                         }
                     </CustomTimeline>
-                    <br />
-                    < button>my Button</button>
+                    <div className='button_container'>
+                        < CustomButton text={"Download Cv"} icon={<GetAppIcon />} ></CustomButton>
+
+                    </div>
                 </div>
             </div>
 
