@@ -6,21 +6,18 @@ import Portfolio from './Pages/Portfolio/Portfolio';
 import Profile from './Components/Profile/Profile';
 import Footer from './Components/Footer/Footer';
 import Resume from './Pages/Resume/Resume';
-// import NavBar from './Components/NavBar';
 import { Grid, Container } from '@material-ui/core';
-import {
-  createBrowserRouter,
-  createRoutesFromElements,
-  Route,
-  RouterProvider,
-  Router
-} from "react-router-dom"; function App() {
+import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from "react-router-dom";
+
+
+
+function App() {
   const router = createBrowserRouter(
     createRoutesFromElements(
-      <Route path="/" element={<Resume />}>
-        <Route path="portfolio" element={<Profile />} />
-      </Route>
-
+      <>
+        <Route path="/" element={<Resume />} />
+        <Route path="/portfolio" element={<Portfolio />} />
+      </>
 
     )
   );
@@ -28,10 +25,10 @@ import {
     <>
       <Container className='top-60'>
         <Grid container spacing={8}>
-          <Grid item xs={12} sm={12} md={4} lg={3} style={{ background: '' }} >
+          <Grid item xs={12} sm={12} md={4} lg={3}>
             <Profile />
           </Grid>
-          <Grid item xs style={{ background: "red" }} >
+          <Grid item style={{width:"65%"}}>
             <Header />
             <RouterProvider router={router} />
             <Footer />
