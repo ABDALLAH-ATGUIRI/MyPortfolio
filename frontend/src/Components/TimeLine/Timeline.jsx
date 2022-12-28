@@ -27,12 +27,6 @@ export default function CustomTimeline({ title, icon, children }) {
             </TimelineItem>
 
             {children}
-
-            {/* Remaining Items */}
-            <TimelineItem >
-                <CustomTimelineSeparator />
-                <TimelineContent>Code</TimelineContent>
-            </TimelineItem>
         </Timeline>
     );
 }
