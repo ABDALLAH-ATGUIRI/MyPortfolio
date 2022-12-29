@@ -11,8 +11,8 @@
 }
 
 .btn_icon_container {
-    color: #000 !important;
-    background: #fff !important;
+    color: #fff !important;
+    background: #ffc500 !important;
     border-radius: 50px !important;
     height: 27px !important;
     width: 27px !important;
@@ -33,4 +33,5 @@
     width: 100%;
     margin-right: 5px;
     margin-left: 5px;
+    color: #fff;
 }

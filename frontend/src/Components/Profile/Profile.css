@@ -8,13 +8,13 @@
     line-height: 18px;
     padding: 20px;
 }
-.profil_name .name {
+.profile_name .name {
     text-transform: uppercase;
-    font-size: 17px;
+    font-size: 18px;
     font-weight: bold;
 }
 .profile_name .title {
-    font-size: 13px;
+    font-size: 14px;
     color: #777;
 }
 
@@ -58,11 +58,9 @@
     color: black;
 }
 
-.profile .button_container{
-
+.profile .button_container {
     width: 100%;
     display: flex;
     justify-content: center;
     margin-top: 20px;
-
 }

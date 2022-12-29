@@ -1,5 +1,5 @@
 :root {
-    --main-color: #ffc500;
+    --main-color: #058dfe;
 }
 
 .container_shadow {
@@ -24,10 +24,16 @@ margin-bottom: 30px !important;
     padding: 30px !important;
 }
 
-.p_45 {
-    padding-bottom: 45px;
+.p_50 {
+    padding-bottom: 50px !important;
 }
 
+.pb_45 {
+    padding-bottom: 45px !important;
+}
+.pt_45 {
+    padding-top: 45px !important;
+}
 .container_page {
     width: 65%;
 }
@@ -47,7 +53,6 @@ margin-bottom: 30px !important;
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
     margin-bottom: 30px;
-    padding: 30px;
 }
 
 .section_title {
@@ -71,4 +76,12 @@ margin-bottom: 30px !important;
     opacity: 0.4;
     left: 0;
     background-color: var(--main-color);
+}
+
+.section{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.graybg{
+    background-color: #fafafa;
 }

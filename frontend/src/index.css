@@ -10,7 +10,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #fafafa;
   overflow-x: hidden;
-  /* background: url(./assets/images/background/bg.jpg); */
+  background: url(./assets/svg/bg.svg);
+  background-repeat: no-repeat;
 }
 
 code {

@@ -24,7 +24,7 @@
 }
 
 .timeline .timeline_dot_header {
-    color: black !important;
+    color: white !important;
     background-color: var(--main-color) !important;
     font-size: small !important;
     padding: 10px !important;

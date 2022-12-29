@@ -1,0 +1,1602 @@
+<svg id="bubbles-header" class="c-bubbles" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1348 933">
+    <circle r="24" style="fill:#c16100" cx="1080" cy="-307.7745753776836"></circle>
+    <circle r="18" style="fill:#c16100" cx="266" cy="-220.65158319774014"></circle>
+    <circle r="24" style="fill:#be6700" cx="35" cy="255.74581144157906"></circle>
+    <circle r="15" style="fill:#cdcaa2" cx="86" cy="26.332424401688854"></circle>
+    <circle r="16" style="fill:#cdcaa2" cx="139" cy="41.55756709313857"></circle>
+    <circle r="20" style="fill:#66ccff" cx="176" cy="-145.7914705678994"></circle>
+    <circle r="12" style="fill:#be6700" cx="3" cy="555.0721622884031"></circle>
+    <circle r="6" style="fill:#be6700" cx="1063" cy="-167.66711435566742"></circle>
+    <circle r="19" style="fill:#ffffff" cx="1100" cy="-442.2118775609374"></circle>
+    <circle r="21" style="fill:#66ccff" cx="64" cy="152.5787118804392"></circle>
+    <circle r="5" style="fill:#c16100" cx="228" cy="-22.175865220622086"></circle>
+    <circle r="7" style="fill:#66ccff" cx="1271" cy="-342.40488115662515"></circle>
+    <circle r="10" style="fill:#c16100" cx="1100" cy="-123.21187756093741"></circle>
+    <circle r="4" style="fill:#c16100" cx="870" cy="24.946176253910494"></circle>
+    <circle r="13" style="fill:#be6700" cx="229" cy="-150.7571757420426"></circle>
+    <circle r="21" style="fill:#be6700" cx="1221" cy="-222.07393930637681"></circle>
+    <circle r="11" style="fill:#be6700" cx="842" cy="-390.7085545265709"></circle>
+    <circle r="4" style="fill:#c16100" cx="1200" cy="-428.7695328241957"></circle>
+    <circle r="11" style="fill:#be6700" cx="991" cy="-296.35102334857413"></circle>
+    <circle r="10" style="fill:#b1a89e" cx="844" cy="-277.02368929394027"></circle>
+    <circle r="19" style="fill:#110000" cx="633" cy="-253.8110976323502"></circle>
+    <circle r="20" style="fill:#66ccff" cx="429" cy="-9.138728817170318"></circle>
+    <circle r="10" style="fill:#66ccff" cx="202" cy="-200.09317533229319"></circle>
+    <circle r="23" style="fill:#0d004c" cx="758" cy="-239.74864899796694"></circle>
+    <circle r="11" style="fill:#110000" cx="726" cy="-285.0192760412415"></circle>
+    <circle r="9" style="fill:#be6700" cx="66" cy="-90.50866421971591"></circle>
+    <circle r="4" style="fill:#be6700" cx="1021" cy="-342.312427538518"></circle>
+    <circle r="8" style="fill:#66ccff" cx="1044" cy="-220.27145796116736"></circle>
+    <circle r="11" style="fill:#66ccff" cx="1043" cy="-392.1441659129572"></circle>
+    <circle r="15" style="fill:#cdcaa2" cx="326" cy="61.33080647993734"></circle>
+    <circle r="16" style="fill:#66ccff" cx="366" cy="-196.04231231740107"></circle>
+    <circle r="18" style="fill:#0d004c" cx="833" cy="-366.28112206800915"></circle>
+    <circle r="11" style="fill:#b1a89e" cx="1054" cy="-428.53771390083455"></circle>
+    <circle r="26" style="fill:#ffffff" cx="404" cy="135.83660998111338"></circle>
+    <circle r="21" style="fill:#0d004c" cx="1133" cy="-248.138150861305"></circle>
+    <circle r="18" style="fill:#b1a89e" cx="5" cy="378.2195818168875"></circle>
+    <circle r="25" style="fill:#c16100" cx="429" cy="-144.13872881717032"></circle>
+    <circle r="23" style="fill:#66ccff" cx="1218" cy="-65.74717593828552"></circle>
+    <circle r="14" style="fill:#be6700" cx="806" cy="-415.9044118674901"></circle>
+    <circle r="17" style="fill:#be6700" cx="1095" cy="-43.606731903141394"></circle>
+    <circle r="14" style="fill:#ffffff" cx="801" cy="-283.0778426654207"></circle>
+    <circle r="14" style="fill:#ffffff" cx="1001" cy="-273.6846614808819"></circle>
+    <circle r="24" style="fill:#0d004c" cx="275" cy="-267.07144818775055"></circle>
+    <circle r="15" style="fill:#110000" cx="1313" cy="-90.72323992974748"></circle>
+    <circle r="5" style="fill:#ffffff" cx="674" cy="-56.14741952848442"></circle>
+    <circle r="24" style="fill:#c16100" cx="123" cy="234.8011990286269"></circle>
+    <circle r="13" style="fill:#ffffff" cx="1240" cy="-222.12498013974187"></circle>
+    <circle r="18" style="fill:#be6700" cx="1133" cy="-325.138150861305"></circle>
+    <circle r="19" style="fill:#c16100" cx="641" cy="-21.47930470374604"></circle>
+    <circle r="21" style="fill:#c16100" cx="1302" cy="-294.6057406703478"></circle>
+    <circle r="12" style="fill:#0d004c" cx="1257" cy="-309.93365615565597"></circle>
+    <circle r="8" style="fill:#66ccff" cx="90" cy="214.29369170710027"></circle>
+    <circle r="18" style="fill:#0d004c" cx="647" cy="-337.71685317868753"></circle>
+    <circle r="8" style="fill:#cdcaa2" cx="905" cy="-131.2928391232282"></circle>
+    <circle r="24" style="fill:#be6700" cx="185" cy="-170.41590795636694"></circle>
+    <circle r="13" style="fill:#66ccff" cx="57" cy="273.9645641525649"></circle>
+    <circle r="7" style="fill:#0d004c" cx="899" cy="-204.40927106163542"></circle>
+    <circle r="10" style="fill:#110000" cx="963" cy="-54.543988163729864"></circle>
+    <circle r="18" style="fill:#b1a89e" cx="1096" cy="-328.7279817902845"></circle>
+    <circle r="14" style="fill:#be6700" cx="260" cy="194.3788731596528"></circle>
+    <circle r="17" style="fill:#b1a89e" cx="946" cy="-337.1781874198366"></circle>
+    <circle r="19" style="fill:#c16100" cx="625" cy="-129.12167273244972"></circle>
+    <circle r="11" style="fill:#b1a89e" cx="503" cy="74.72372203010832"></circle>
+    <circle r="9" style="fill:#c16100" cx="647" cy="-288.71685317868753"></circle>
+    <circle r="20" style="fill:#be6700" cx="303" cy="-291.95079835729655"></circle>
+    <circle r="13" style="fill:#c16100" cx="859" cy="-304.36366599317637"></circle>
+    <circle r="10" style="fill:#c16100" cx="1260" cy="-394.2502933548018"></circle>
+    <circle r="16" style="fill:#ffffff" cx="371" cy="-72.84463633467237"></circle>
+    <circle r="11" style="fill:#0d004c" cx="311" cy="-258.4123425763926"></circle>
+    <circle r="19" style="fill:#66ccff" cx="420" cy="-96.32245564320488"></circle>
+    <circle r="14" style="fill:#be6700" cx="606" cy="-4.02101304388998"></circle>
+    <circle r="20" style="fill:#c16100" cx="125" cy="253.65874545066265"></circle>
+    <circle r="17" style="fill:#be6700" cx="158" cy="148.53933849152577"></circle>
+    <circle r="14" style="fill:#be6700" cx="728" cy="21.61530628086325"></circle>
+    <circle r="16" style="fill:#ffffff" cx="874" cy="-141.66313326470754"></circle>
+    <circle r="15" style="fill:#be6700" cx="334" cy="-197.88945407700123"></circle>
+    <circle r="5" style="fill:#be6700" cx="607" cy="-225.24002256117603"></circle>
+    <circle r="14" style="fill:#66ccff" cx="831" cy="-159.96182085141174"></circle>
+    <circle r="11" style="fill:#be6700" cx="1171" cy="-395.520068354582"></circle>
+    <circle r="20" style="fill:#be6700" cx="568" cy="-218.4191816208364"></circle>
+    <circle r="14" style="fill:#be6700" cx="276" cy="-177.5535875270598"></circle>
+    <circle r="17" style="fill:#110000" cx="299" cy="-104.18559972632363"></circle>
+    <circle r="18" style="fill:#cdcaa2" cx="1300" cy="-223.40154502345968"></circle>
+    <circle r="18" style="fill:#be6700" cx="296" cy="-118.84613383303474"></circle>
+    <circle r="24" style="fill:#b1a89e" cx="1295" cy="-191.88967833167533"></circle>
+    <circle r="4" style="fill:#66ccff" cx="1008" cy="-208.61030454487627"></circle>
+    <circle r="6" style="fill:#b1a89e" cx="373" cy="-70.55877376529929"></circle>
+    <circle r="4" style="fill:#c16100" cx="575" cy="-243.04615680850088"></circle>
+    <circle r="24" style="fill:#cdcaa2" cx="1081" cy="-60.897508511994715"></circle>
+    <circle r="12" style="fill:#110000" cx="653" cy="-295.9429779662586"></circle>
+    <circle r="24" style="fill:#b1a89e" cx="1187" cy="-206.32269811898414"></circle>
+    <circle r="10" style="fill:#0d004c" cx="1215" cy="-123.41960674109703"></circle>
+    <circle r="17" style="fill:#b1a89e" cx="1275" cy="-148.82225539521392"></circle>
+    <circle r="8" style="fill:#be6700" cx="5" cy="431.2195818168875"></circle>
+    <circle r="17" style="fill:#b1a89e" cx="533" cy="-34.97124254382402"></circle>
+    <circle r="16" style="fill:#ffffff" cx="567" cy="-147.18512122169614"></circle>
+    <circle r="18" style="fill:#c16100" cx="195" cy="-230.40853517875723"></circle>
+    <circle r="5" style="fill:#110000" cx="899" cy="-350.4092710616354"></circle>
+    <circle r="21" style="fill:#110000" cx="313" cy="-241.26381499299225"></circle>
+    <circle r="4" style="fill:#b1a89e" cx="1307" cy="-329.11486065792417"></circle>
+    <circle r="7" style="fill:#ffffff" cx="1147" cy="-43.769407670103305"></circle>
+    <circle r="6" style="fill:#ffffff" cx="780" cy="-395.5489645519442"></circle>
+    <circle r="19" style="fill:#be6700" cx="184" cy="32.30403549794357"></circle>
+    <circle r="20" style="fill:#ffffff" cx="204" cy="56.598151597824085"></circle>
+    <circle r="19" style="fill:#66ccff" cx="893" cy="13.480213794443102"></circle>
+    <circle r="17" style="fill:#110000" cx="96" cy="184.7210888554357"></circle>
+    <circle r="12" style="fill:#66ccff" cx="1080" cy="-330.7745753776836"></circle>
+    <circle r="12" style="fill:#c16100" cx="107" cy="-45.688312740535935"></circle>
+    <circle r="26" style="fill:#b1a89e" cx="1043" cy="-412.1441659129572"></circle>
+    <circle r="19" style="fill:#b1a89e" cx="235" cy="-39.1926062528313"></circle>
+    <circle r="24" style="fill:#cdcaa2" cx="335" cy="85.7134477434164"></circle>
+    <circle r="15" style="fill:#ffffff" cx="317" cy="-288.95055819393906"></circle>
+    <circle r="11" style="fill:#b1a89e" cx="1183" cy="-215.87432894340418"></circle>
+    <circle r="15" style="fill:#110000" cx="1195" cy="-29.214921404080428"></circle>
+    <circle r="18" style="fill:#0d004c" cx="982" cy="-151.13919215635588"></circle>
+    <circle r="25" style="fill:#0d004c" cx="1244" cy="-270.55277194957955"></circle>
+    <circle r="6" style="fill:#be6700" cx="237" cy="-158.3182845334777"></circle>
+    <circle r="26" style="fill:#be6700" cx="575" cy="44.95384319149912"></circle>
+    <circle r="18" style="fill:#c16100" cx="1308" cy="-391.2164509054322"></circle>
+    <circle r="16" style="fill:#c16100" cx="355" cy="-188.98895574416838"></circle>
+    <circle r="26" style="fill:#be6700" cx="1336" cy="-406.0298834501882"></circle>
+    <circle r="4" style="fill:#0d004c" cx="83" cy="306.0487509203898"></circle>
+    <circle r="14" style="fill:#b1a89e" cx="1099" cy="-243.09106878303987"></circle>
+    <circle r="25" style="fill:#cdcaa2" cx="585" cy="3.6636271096458586"></circle>
+    <circle r="9" style="fill:#be6700" cx="1143" cy="-217.30537491121538"></circle>
+    <circle r="5" style="fill:#110000" cx="565" cy="-53.71575945366715"></circle>
+    <circle r="5" style="fill:#0d004c" cx="41" cy="125.72903674022376"></circle>
+    <circle r="25" style="fill:#0d004c" cx="19" cy="455.8924018641619"></circle>
+    <circle r="6" style="fill:#b1a89e" cx="466" cy="-180.12752136024687"></circle>
+    <circle r="25" style="fill:#b1a89e" cx="957" cy="-336.71380269790905"></circle>
+    <circle r="9" style="fill:#110000" cx="877" cy="-156.11828816629065"></circle>
+    <circle r="11" style="fill:#be6700" cx="558" cy="-243.05980800663622"></circle>
+    <circle r="14" style="fill:#c16100" cx="350" cy="144.8951785718732"></circle>
+    <circle r="16" style="fill:#be6700" cx="386" cy="-70.10936410660315"></circle>
+    <circle r="18" style="fill:#be6700" cx="1037" cy="0.622158763397124"></circle>
+    <circle r="6" style="fill:#b1a89e" cx="869" cy="10.098941356593741"></circle>
+    <circle r="21" style="fill:#b1a89e" cx="707" cy="-92.49673102100826"></circle>
+    <circle r="20" style="fill:#0d004c" cx="82" cy="85.65882205363027"></circle>
+    <circle r="23" style="fill:#c16100" cx="45" cy="405.3639063936937"></circle>
+    <circle r="7" style="fill:#be6700" cx="362" cy="37.41736437329075"></circle>
+    <circle r="4" style="fill:#0d004c" cx="871" cy="-322.20641335751895"></circle>
+    <circle r="15" style="fill:#66ccff" cx="334" cy="-158.88945407700123"></circle>
+    <circle r="5" style="fill:#110000" cx="1286" cy="-110.96331798711935"></circle>
+    <circle r="7" style="fill:#0d004c" cx="1031" cy="-277.607069777089"></circle>
+    <circle r="18" style="fill:#cdcaa2" cx="577" cy="-242.50736991820543"></circle>
+    <circle r="13" style="fill:#be6700" cx="1227" cy="-370.72506434620425"></circle>
+    <circle r="24" style="fill:#110000" cx="171" cy="156.03672644096798"></circle>
+    <circle r="8" style="fill:#ffffff" cx="247" cy="-6.80787741988604"></circle>
+    <circle r="20" style="fill:#0d004c" cx="650" cy="-35.331330336866245"></circle>
+    <circle r="6" style="fill:#0d004c" cx="1004" cy="-364.08215576896487"></circle>
+    <circle r="24" style="fill:#0d004c" cx="50" cy="219.3689489471816"></circle>
+    <circle r="22" style="fill:#be6700" cx="1038" cy="-206.50586943171163"></circle>
+    <circle r="4" style="fill:#cdcaa2" cx="26" cy="40.229506029358674"></circle>
+    <circle r="10" style="fill:#0d004c" cx="612" cy="-54.32968611377294"></circle>
+    <circle r="11" style="fill:#be6700" cx="160" cy="-195.13149161607976"></circle>
+    <circle r="6" style="fill:#be6700" cx="604" cy="-133.58190771130273"></circle>
+    <circle r="6" style="fill:#ffffff" cx="1310" cy="-473.4193986028837"></circle>
+    <circle r="13" style="fill:#be6700" cx="495" cy="-249.14670542783188"></circle>
+    <circle r="5" style="fill:#b1a89e" cx="1309" cy="-59.31796351422622"></circle>
+    <circle r="7" style="fill:#be6700" cx="685" cy="15.70224408638353"></circle>
+    <circle r="10" style="fill:#be6700" cx="85" cy="-79.11399950050463"></circle>
+    <circle r="19" style="fill:#be6700" cx="1120" cy="-160.60526199138837"></circle>
+    <circle r="23" style="fill:#0d004c" cx="604" cy="-51.58190771130273"></circle>
+    <circle r="14" style="fill:#be6700" cx="860" cy="-325.51820846801706"></circle>
+    <circle r="21" style="fill:#110000" cx="1179" cy="-339.4244411563716"></circle>
+    <circle r="20" style="fill:#be6700" cx="84" cy="-110.54203746009239"></circle>
+    <circle r="24" style="fill:#ffffff" cx="1317" cy="-473.1272835633936"></circle>
+    <circle r="8" style="fill:#cdcaa2" cx="813" cy="-374.05303507809356"></circle>
+    <circle r="24" style="fill:#b1a89e" cx="1213" cy="-407.2007776271196"></circle>
+    <circle r="18" style="fill:#66ccff" cx="446" cy="-7.3007432208816"></circle>
+    <circle r="24" style="fill:#be6700" cx="1031" cy="-438.607069777089"></circle>
+    <circle r="7" style="fill:#0d004c" cx="54" cy="203.14627217861573"></circle>
+    <circle r="11" style="fill:#be6700" cx="947" cy="-229.31852471988714"></circle>
+    <circle r="15" style="fill:#c16100" cx="87" cy="253.79680912361653"></circle>
+    <circle r="21" style="fill:#0d004c" cx="786" cy="-338.5668181313681"></circle>
+    <circle r="19" style="fill:#66ccff" cx="673" cy="-263.95019715796536"></circle>
+    <circle r="9" style="fill:#b1a89e" cx="9" cy="355.1443245768062"></circle>
+    <circle r="21" style="fill:#0d004c" cx="926" cy="-331.3398477548924"></circle>
+    <circle r="16" style="fill:#be6700" cx="1210" cy="-153.87185651275695"></circle>
+    <circle r="13" style="fill:#c16100" cx="701" cy="-95.36465676382772"></circle>
+    <circle r="15" style="fill:#b1a89e" cx="198" cy="-9.436501931312819"></circle>
+    <circle r="18" style="fill:#b1a89e" cx="537" cy="88.03563700076745"></circle>
+    <circle r="11" style="fill:#c16100" cx="1211" cy="-393.9815874088297"></circle>
+    <circle r="6" style="fill:#ffffff" cx="698" cy="-114.79498079923883"></circle>
+    <circle r="18" style="fill:#0d004c" cx="946" cy="-287.1781874198366"></circle>
+    <circle r="15" style="fill:#66ccff" cx="528" cy="-285.71930827949643"></circle>
+    <circle r="22" style="fill:#cdcaa2" cx="1234" cy="-188.48069799311168"></circle>
+    <circle r="12" style="fill:#be6700" cx="1061" cy="-321.4169650498302"></circle>
+    <circle r="11" style="fill:#110000" cx="261" cy="115.8689714120195"></circle>
+    <circle r="4" style="fill:#c16100" cx="466" cy="-293.1275213602469"></circle>
+    <circle r="9" style="fill:#b1a89e" cx="496" cy="-173.41477664322292"></circle>
+    <circle r="8" style="fill:#ffffff" cx="111" cy="-69.56332748485124"></circle>
+    <circle r="9" style="fill:#66ccff" cx="1046" cy="-238.52567668401377"></circle>
+    <circle r="23" style="fill:#c16100" cx="995" cy="-357.88608647749163"></circle>
+    <circle r="19" style="fill:#be6700" cx="13" cy="384.29972071595216"></circle>
+    <circle r="25" style="fill:#c16100" cx="1034" cy="-316.9930145778378"></circle>
+    <circle r="13" style="fill:#be6700" cx="952" cy="-126.01799575248106"></circle>
+    <circle r="11" style="fill:#be6700" cx="885" cy="-171.324464374051"></circle>
+    <circle r="11" style="fill:#0d004c" cx="543" cy="-288.4402586517127"></circle>
+    <circle r="23" style="fill:#110000" cx="658" cy="-333.95617313162086"></circle>
+    <circle r="17" style="fill:#ffffff" cx="598" cy="-38.255814412917175"></circle>
+    <circle r="21" style="fill:#66ccff" cx="804" cy="-12.574401158255114"></circle>
+    <circle r="8" style="fill:#be6700" cx="831" cy="-400.96182085141174"></circle>
+    <circle r="16" style="fill:#110000" cx="177" cy="-118.5440461909385"></circle>
+    <circle r="5" style="fill:#b1a89e" cx="1174" cy="-355.8599301403574"></circle>
+    <circle r="5" style="fill:#ffffff" cx="1219" cy="-421.8561864016398"></circle>
+    <circle r="11" style="fill:#be6700" cx="218" cy="-189.21839850724177"></circle>
+    <circle r="8" style="fill:#ffffff" cx="445" cy="-77.00258542533925"></circle>
+    <circle r="11" style="fill:#c16100" cx="570" cy="-363.88606871714103"></circle>
+    <circle r="16" style="fill:#be6700" cx="1342" cy="-176.62508642732985"></circle>
+    <circle r="14" style="fill:#110000" cx="918" cy="-363.1873091387764"></circle>
+    <circle r="12" style="fill:#c16100" cx="874" cy="-153.66313326470754"></circle>
+    <circle r="9" style="fill:#b1a89e" cx="442" cy="-47.104075288033414"></circle>
+    <circle r="19" style="fill:#b1a89e" cx="886" cy="-56.474469180667256"></circle>
+    <circle r="9" style="fill:#cdcaa2" cx="334" cy="3.1105459229987673"></circle>
+    <circle r="10" style="fill:#110000" cx="548" cy="-241.65776710369096"></circle>
+    <circle r="8" style="fill:#c16100" cx="893" cy="-389.5197862055569"></circle>
+    <circle r="9" style="fill:#ffffff" cx="286" cy="-107.28110579216684"></circle>
+    <circle r="25" style="fill:#c16100" cx="345" cy="-290.1935763369853"></circle>
+    <circle r="19" style="fill:#0d004c" cx="454" cy="-317.6622141665015"></circle>
+    <circle r="25" style="fill:#be6700" cx="292" cy="-231.03890538161897"></circle>
+    <circle r="25" style="fill:#be6700" cx="1156" cy="-346.80759200797127"></circle>
+    <circle r="5" style="fill:#be6700" cx="36" cy="365.0038952036192"></circle>
+    <circle r="20" style="fill:#be6700" cx="1253" cy="-49.51029566294403"></circle>
+    <circle r="7" style="fill:#66ccff" cx="1107" cy="-172.05447639456702"></circle>
+    <circle r="15" style="fill:#ffffff" cx="149" cy="-159.6703955376487"></circle>
+    <circle r="13" style="fill:#cdcaa2" cx="265" cy="185.84871585752376"></circle>
+    <circle r="26" style="fill:#66ccff" cx="1073" cy="-189.91084293804101"></circle>
+    <circle r="12" style="fill:#110000" cx="104" cy="-82.91092334382824"></circle>
+    <circle r="26" style="fill:#ffffff" cx="1118" cy="-390.367854882359"></circle>
+    <circle r="5" style="fill:#ffffff" cx="438" cy="-27.89652840662245"></circle>
+    <circle r="9" style="fill:#ffffff" cx="268" cy="-172.6465634466581"></circle>
+    <circle r="24" style="fill:#66ccff" cx="916" cy="-425.89760511522945"></circle>
+    <circle r="11" style="fill:#cdcaa2" cx="18" cy="233.07410989021264"></circle>
+    <circle r="16" style="fill:#cdcaa2" cx="529" cy="-61.97064088455181"></circle>
+    <circle r="21" style="fill:#ffffff" cx="521" cy="-271.9465370754506"></circle>
+    <circle r="6" style="fill:#be6700" cx="160" cy="230.86850838392024"></circle>
+    <circle r="14" style="fill:#ffffff" cx="507" cy="-19.328396279692583"></circle>
+    <circle r="14" style="fill:#be6700" cx="179" cy="-89.03652528763553"></circle>
+    <circle r="22" style="fill:#110000" cx="77" cy="-109.98438219683408"></circle>
+    <circle r="9" style="fill:#0d004c" cx="583" cy="-361.88147778088944"></circle>
+    <circle r="4" style="fill:#ffffff" cx="141" cy="163.65997421868428"></circle>
+    <circle r="23" style="fill:#c16100" cx="533" cy="51.02875745617598"></circle>
+    <circle r="9" style="fill:#cdcaa2" cx="244" cy="-25.18468929239782"></circle>
+    <circle r="10" style="fill:#be6700" cx="610" cy="-300.89489278891676"></circle>
+    <circle r="21" style="fill:#cdcaa2" cx="956" cy="-425.57493259415503"></circle>
+    <circle r="21" style="fill:#c16100" cx="49" cy="202.052459249383"></circle>
+    <circle r="4" style="fill:#110000" cx="764" cy="-356.79592834282084"></circle>
+    <circle r="26" style="fill:#be6700" cx="782" cy="-396.8891164462615"></circle>
+    <circle r="4" style="fill:#be6700" cx="982" cy="-244.13919215635588"></circle>
+    <circle r="14" style="fill:#110000" cx="1255" cy="-42.72214457889038"></circle>
+    <circle r="5" style="fill:#ffffff" cx="146" cy="-90.96869069502543"></circle>
+    <circle r="4" style="fill:#ffffff" cx="1275" cy="-400.8222553952139"></circle>
+    <circle r="10" style="fill:#c16100" cx="1200" cy="-176.76953282419572"></circle>
+    <circle r="26" style="fill:#110000" cx="1181" cy="-244.64957551898272"></circle>
+    <circle r="19" style="fill:#be6700" cx="524" cy="-96.70919510636475"></circle>
+    <circle r="25" style="fill:#b1a89e" cx="575" cy="-5.046156808500882"></circle>
+    <circle r="24" style="fill:#be6700" cx="384" cy="-239.41934051775127"></circle>
+    <circle r="11" style="fill:#110000" cx="536" cy="-284.71677813325164"></circle>
+    <circle r="17" style="fill:#ffffff" cx="700" cy="-169.17503611472034"></circle>
+    <circle r="21" style="fill:#66ccff" cx="158" cy="-11.460661508474232"></circle>
+    <circle r="21" style="fill:#ffffff" cx="452" cy="68.92422935625825"></circle>
+    <circle r="5" style="fill:#be6700" cx="656" cy="-83.55182200615013"></circle>
+    <circle r="5" style="fill:#be6700" cx="211" cy="-170.8832599207533"></circle>
+    <circle r="6" style="fill:#ffffff" cx="502" cy="-206.01194108237144"></circle>
+    <circle r="18" style="fill:#be6700" cx="1229" cy="-368.94139866461353"></circle>
+    <circle r="22" style="fill:#110000" cx="2" cy="473.92978531340657"></circle>
+    <circle r="20" style="fill:#ffffff" cx="312" cy="90.16123894457485"></circle>
+    <circle r="16" style="fill:#ffffff" cx="54" cy="233.14627217861573"></circle>
+    <circle r="22" style="fill:#be6700" cx="974" cy="-213.05264832975274"></circle>
+    <circle r="19" style="fill:#110000" cx="636" cy="-356.43913304414775"></circle>
+    <circle r="21" style="fill:#be6700" cx="201" cy="118.56602821493198"></circle>
+    <circle r="24" style="fill:#ffffff" cx="261" cy="53.868971412019505"></circle>
+    <circle r="4" style="fill:#b1a89e" cx="433" cy="-316.3714916529965"></circle>
+    <circle r="16" style="fill:#b1a89e" cx="872" cy="-156.35882788042875"></circle>
+    <circle r="17" style="fill:#66ccff" cx="1132" cy="-206.02086233965167"></circle>
+    <circle r="10" style="fill:#cdcaa2" cx="1117" cy="-162.24899201792437"></circle>
+    <circle r="7" style="fill:#0d004c" cx="982" cy="-403.1391921563559"></circle>
+    <circle r="20" style="fill:#b1a89e" cx="783" cy="-227.0588662995773"></circle>
+    <circle r="12" style="fill:#be6700" cx="760" cy="-181.0986603787311"></circle>
+    <circle r="18" style="fill:#cdcaa2" cx="167" cy="33.1807606095922"></circle>
+    <circle r="13" style="fill:#66ccff" cx="619" cy="-66.84035177924318"></circle>
+    <circle r="14" style="fill:#be6700" cx="634" cy="-81.02077288053249"></circle>
+    <circle r="26" style="fill:#be6700" cx="1037" cy="-383.3778412366029"></circle>
+    <circle r="26" style="fill:#110000" cx="1144" cy="-287.4215351653538"></circle>
+    <circle r="5" style="fill:#66ccff" cx="1278" cy="-166.13442767084325"></circle>
+    <circle r="22" style="fill:#be6700" cx="178" cy="217.7076180711797"></circle>
+    <circle r="16" style="fill:#66ccff" cx="671" cy="-383.5548717407363"></circle>
+    <circle r="14" style="fill:#be6700" cx="583" cy="-282.88147778088944"></circle>
+    <circle r="22" style="fill:#0d004c" cx="298" cy="-282.7406102242421"></circle>
+    <circle r="20" style="fill:#c16100" cx="793" cy="-48.74453920325857"></circle>
+    <circle r="17" style="fill:#ffffff" cx="1290" cy="-357.37583149302054"></circle>
+    <circle r="21" style="fill:#cdcaa2" cx="192" cy="100.65087416884217"></circle>
+    <circle r="5" style="fill:#110000" cx="927" cy="-186.48321446297325"></circle>
+    <circle r="20" style="fill:#110000" cx="1329" cy="-140.33209220567073"></circle>
+    <circle r="23" style="fill:#be6700" cx="523" cy="0.5445380025797704"></circle>
+    <circle r="26" style="fill:#be6700" cx="424" cy="-104.58151001914428"></circle>
+    <circle r="15" style="fill:#be6700" cx="130" cy="12.449087846246243"></circle>
+    <circle r="15" style="fill:#0d004c" cx="980" cy="-20.86838830691636"></circle>
+    <circle r="9" style="fill:#110000" cx="1326" cy="-349.0319129996303"></circle>
+    <circle r="6" style="fill:#cdcaa2" cx="1083" cy="-416.1430339832732"></circle>
+    <circle r="11" style="fill:#0d004c" cx="1271" cy="-194.40488115662515"></circle>
+    <circle r="5" style="fill:#be6700" cx="677" cy="-8.737335711169749"></circle>
+    <circle r="15" style="fill:#110000" cx="71" cy="147.7914624389441"></circle>
+    <circle r="18" style="fill:#c16100" cx="661" cy="27.43959879624856"></circle>
+    <circle r="7" style="fill:#0d004c" cx="1034" cy="-106.99301457783781"></circle>
+    <circle r="13" style="fill:#c16100" cx="71" cy="36.79146243894411"></circle>
+    <circle r="19" style="fill:#66ccff" cx="288" cy="-72.20674885616131"></circle>
+    <circle r="19" style="fill:#be6700" cx="573" cy="-124.58333668123078"></circle>
+    <circle r="19" style="fill:#cdcaa2" cx="1316" cy="-246.0263878182143"></circle>
+    <circle r="10" style="fill:#b1a89e" cx="987" cy="-11.813796156624335"></circle>
+    <circle r="20" style="fill:#0d004c" cx="1303" cy="-455.70772089965044"></circle>
+    <circle r="21" style="fill:#ffffff" cx="1078" cy="-350.528367258736"></circle>
+    <circle r="8" style="fill:#c16100" cx="689" cy="-338.0711452434117"></circle>
+    <circle r="7" style="fill:#c16100" cx="941" cy="-180.47426822001705"></circle>
+    <circle r="26" style="fill:#be6700" cx="1212" cy="-284.0912277304835"></circle>
+    <circle r="21" style="fill:#b1a89e" cx="69" cy="155.58684184612707"></circle>
+    <circle r="6" style="fill:#be6700" cx="568" cy="-144.4191816208364"></circle>
+    <circle r="5" style="fill:#66ccff" cx="474" cy="-313.38849922007125"></circle>
+    <circle r="25" style="fill:#be6700" cx="745" cy="-164.45081372076106"></circle>
+    <circle r="11" style="fill:#c16100" cx="763" cy="-225.62195419595685"></circle>
+    <circle r="22" style="fill:#0d004c" cx="655" cy="-394.34918391629014"></circle>
+    <circle r="12" style="fill:#be6700" cx="1117" cy="-462.24899201792437"></circle>
+    <circle r="20" style="fill:#cdcaa2" cx="1235" cy="-103.58829560299841"></circle>
+    <circle r="17" style="fill:#0d004c" cx="1168" cy="-89.17933475480595"></circle>
+    <circle r="13" style="fill:#be6700" cx="674" cy="-24.14741952848442"></circle>
+    <circle r="17" style="fill:#be6700" cx="285" cy="-181.81585403054748"></circle>
+    <circle r="7" style="fill:#66ccff" cx="1265" cy="-285.77635044691397"></circle>
+    <circle r="6" style="fill:#66ccff" cx="830" cy="-299.8018819493161"></circle>
+    <circle r="14" style="fill:#c16100" cx="667" cy="-112.76067360706247"></circle>
+    <circle r="6" style="fill:#ffffff" cx="1104" cy="-438.69401690024677"></circle>
+    <circle r="7" style="fill:#c16100" cx="639" cy="65.9357870157503"></circle>
+    <circle r="24" style="fill:#be6700" cx="1345" cy="-387.9216907384599"></circle>
+    <circle r="5" style="fill:#cdcaa2" cx="1347" cy="-155.11905963382515"></circle>
+    <circle r="11" style="fill:#c16100" cx="641" cy="21.52069529625396"></circle>
+    <circle r="20" style="fill:#110000" cx="207" cy="-81.34099586546972"></circle>
+    <circle r="20" style="fill:#be6700" cx="145" cy="38.944228652100946"></circle>
+    <circle r="9" style="fill:#b1a89e" cx="833" cy="-353.28112206800915"></circle>
+    <circle r="4" style="fill:#66ccff" cx="1007" cy="-281.47846409520207"></circle>
+    <circle r="12" style="fill:#66ccff" cx="478" cy="-152.5047179075616"></circle>
+    <circle r="4" style="fill:#0d004c" cx="1071" cy="-7.663027115894465"></circle>
+    <circle r="14" style="fill:#66ccff" cx="1320" cy="-64.42951177601537"></circle>
+    <circle r="21" style="fill:#110000" cx="730" cy="-271.7491088781379"></circle>
+    <circle r="22" style="fill:#66ccff" cx="420" cy="52.677544356795124"></circle>
+    <circle r="21" style="fill:#66ccff" cx="496" cy="-348.4147766432229"></circle>
+    <circle r="19" style="fill:#ffffff" cx="813" cy="-124.05303507809356"></circle>
+    <circle r="5" style="fill:#be6700" cx="673" cy="-228.95019715796536"></circle>
+    <circle r="14" style="fill:#110000" cx="1035" cy="-302.1214140485822"></circle>
+    <circle r="13" style="fill:#be6700" cx="1162" cy="-246.49523414151213"></circle>
+    <circle r="8" style="fill:#110000" cx="481" cy="-34.33576905730217"></circle>
+    <circle r="10" style="fill:#ffffff" cx="281" cy="7.061622344982766"></circle>
+    <circle r="25" style="fill:#c16100" cx="1031" cy="-157.607069777089"></circle>
+    <circle r="20" style="fill:#0d004c" cx="907" cy="-388.5860605273841"></circle>
+    <circle r="14" style="fill:#ffffff" cx="1196" cy="-336.3260290995107"></circle>
+    <circle r="10" style="fill:#be6700" cx="99" cy="124.63371275528061"></circle>
+    <circle r="25" style="fill:#be6700" cx="1253" cy="-227.51029566294403"></circle>
+    <circle r="6" style="fill:#110000" cx="867" cy="24.404999653618916"></circle>
+    <circle r="8" style="fill:#66ccff" cx="523" cy="14.54453800257977"></circle>
+    <circle r="6" style="fill:#c16100" cx="479" cy="-228.78231308099225"></circle>
+    <circle r="23" style="fill:#66ccff" cx="679" cy="-389.1291626682828"></circle>
+    <circle r="19" style="fill:#cdcaa2" cx="346" cy="23.42196827988539"></circle>
+    <circle r="23" style="fill:#c16100" cx="1141" cy="-406.07274920877774"></circle>
+    <circle r="6" style="fill:#0d004c" cx="122" cy="250.88552539419572"></circle>
+    <circle r="11" style="fill:#be6700" cx="654" cy="-239.1462362188388"></circle>
+    <circle r="22" style="fill:#b1a89e" cx="1075" cy="-369.1581972779426"></circle>
+    <circle r="18" style="fill:#be6700" cx="310" cy="-257.9845507665549"></circle>
+    <circle r="19" style="fill:#b1a89e" cx="250" cy="197.58853076406922"></circle>
+    <circle r="21" style="fill:#be6700" cx="1000" cy="-432.55189860911776"></circle>
+    <circle r="5" style="fill:#0d004c" cx="85" cy="-52.11399950050463"></circle>
+    <circle r="13" style="fill:#110000" cx="114" cy="89.89434946597146"></circle>
+    <circle r="5" style="fill:#66ccff" cx="1056" cy="-124.78952296608986"></circle>
+    <circle r="8" style="fill:#be6700" cx="424" cy="-298.5815100191443"></circle>
+    <circle r="9" style="fill:#be6700" cx="1243" cy="-439.44595309208034"></circle>
+    <circle r="15" style="fill:#b1a89e" cx="873" cy="-395.511067716168"></circle>
+    <circle r="26" style="fill:#c16100" cx="918" cy="-200.1873091387764"></circle>
+    <circle r="16" style="fill:#b1a89e" cx="218" cy="-175.21839850724177"></circle>
+    <circle r="10" style="fill:#b1a89e" cx="1017" cy="-21.79101669374859"></circle>
+    <circle r="19" style="fill:#ffffff" cx="1112" cy="-284.65307696664183"></circle>
+    <circle r="11" style="fill:#cdcaa2" cx="734" cy="-73.47495353755289"></circle>
+    <circle r="6" style="fill:#be6700" cx="237" cy="63.68171546652229"></circle>
+    <circle r="20" style="fill:#66ccff" cx="893" cy="9.480213794443102"></circle>
+    <circle r="11" style="fill:#cdcaa2" cx="1280" cy="-91.34213567586028"></circle>
+    <circle r="4" style="fill:#be6700" cx="956" cy="-41.57493259415503"></circle>
+    <circle r="13" style="fill:#66ccff" cx="750" cy="-267.3393069475277"></circle>
+    <circle r="10" style="fill:#be6700" cx="377" cy="-288.9756324488344"></circle>
+    <circle r="8" style="fill:#0d004c" cx="714" cy="-40.80540409089099"></circle>
+    <circle r="21" style="fill:#cdcaa2" cx="1040" cy="-384.76155621353416"></circle>
+    <circle r="8" style="fill:#ffffff" cx="672" cy="-236.7526815198728"></circle>
+    <circle r="26" style="fill:#66ccff" cx="1337" cy="-234.12926934494237"></circle>
+    <circle r="11" style="fill:#cdcaa2" cx="285" cy="7.184145969452516"></circle>
+    <circle r="25" style="fill:#66ccff" cx="308" cy="95.87518842997895"></circle>
+    <circle r="20" style="fill:#b1a89e" cx="1307" cy="-170.11486065792417"></circle>
+    <circle r="26" style="fill:#0d004c" cx="1152" cy="-215.3471782293483"></circle>
+    <circle r="5" style="fill:#b1a89e" cx="670" cy="-74.35676694317704"></circle>
+    <circle r="9" style="fill:#110000" cx="788" cy="-327.904376742876"></circle>
+    <circle r="9" style="fill:#0d004c" cx="343" cy="-60.42131112592563"></circle>
+    <circle r="11" style="fill:#110000" cx="940" cy="-15.333035626018273"></circle>
+    <circle r="4" style="fill:#0d004c" cx="198" cy="-197.43650193131282"></circle>
+    <circle r="17" style="fill:#ffffff" cx="1187" cy="-239.32269811898414"></circle>
+    <circle r="13" style="fill:#cdcaa2" cx="972" cy="13.220382068828371"></circle>
+    <circle r="11" style="fill:#c16100" cx="999" cy="-217.41900290804517"></circle>
+    <circle r="12" style="fill:#cdcaa2" cx="1186" cy="-160.2107476343616"></circle>
+    <circle r="26" style="fill:#be6700" cx="1218" cy="-212.74717593828552"></circle>
+    <circle r="22" style="fill:#b1a89e" cx="1327" cy="-412.13204812849017"></circle>
+    <circle r="20" style="fill:#be6700" cx="720" cy="-371.91695235268025"></circle>
+    <circle r="20" style="fill:#0d004c" cx="458" cy="69.17260957136398"></circle>
+    <circle r="9" style="fill:#b1a89e" cx="67" cy="289.4938659265289"></circle>
+    <circle r="5" style="fill:#be6700" cx="957" cy="-118.71380269790905"></circle>
+    <circle r="11" style="fill:#0d004c" cx="583" cy="-166.88147778088944"></circle>
+    <circle r="10" style="fill:#b1a89e" cx="1089" cy="-268.87689906624496"></circle>
+    <circle r="23" style="fill:#0d004c" cx="224" cy="-143.8248438082759"></circle>
+    <circle r="10" style="fill:#0d004c" cx="712" cy="-296.4328113020073"></circle>
+    <circle r="12" style="fill:#c16100" cx="542" cy="-328.1954120530902"></circle>
+    <circle r="15" style="fill:#be6700" cx="982" cy="-36.139192156355875"></circle>
+    <circle r="15" style="fill:#110000" cx="308" cy="10.875188429978948"></circle>
+    <circle r="19" style="fill:#be6700" cx="230" cy="199.66404668801817"></circle>
+    <circle r="22" style="fill:#ffffff" cx="591" cy="58.30821491871404"></circle>
+    <circle r="6" style="fill:#cdcaa2" cx="1231" cy="-428.15738121974834"></circle>
+    <circle r="10" style="fill:#ffffff" cx="501" cy="37.25292289799529"></circle>
+    <circle r="19" style="fill:#ffffff" cx="143" cy="-172.2108911055733"></circle>
+    <circle r="13" style="fill:#c16100" cx="279" cy="-43.98959332004267"></circle>
+    <circle r="17" style="fill:#b1a89e" cx="560" cy="-47.53504730479483"></circle>
+    <circle r="10" style="fill:#0d004c" cx="456" cy="34.75392009278448"></circle>
+    <circle r="26" style="fill:#be6700" cx="1336" cy="-173.0298834501882"></circle>
+    <circle r="16" style="fill:#b1a89e" cx="561" cy="-319.7720308505145"></circle>
+    <circle r="26" style="fill:#0d004c" cx="856" cy="-407.89895680031634"></circle>
+    <circle r="11" style="fill:#ffffff" cx="733" cy="-401.29386388149885"></circle>
+    <circle r="14" style="fill:#be6700" cx="294" cy="-175.94559314880746"></circle>
+    <circle r="18" style="fill:#b1a89e" cx="250" cy="-13.411469235930781"></circle>
+    <circle r="25" style="fill:#ffffff" cx="1221" cy="-60.073939306376815"></circle>
+    <circle r="26" style="fill:#66ccff" cx="1123" cy="-332.9605789455062"></circle>
+    <circle r="12" style="fill:#110000" cx="678" cy="-276.9333936687451"></circle>
+    <circle r="23" style="fill:#be6700" cx="344" cy="55.19199502850188"></circle>
+    <circle r="7" style="fill:#c16100" cx="890" cy="3.927199888067207"></circle>
+    <circle r="23" style="fill:#66ccff" cx="1250" cy="-242.19188741904327"></circle>
+    <circle r="19" style="fill:#ffffff" cx="294" cy="37.05440685119254"></circle>
+    <circle r="26" style="fill:#be6700" cx="1078" cy="-353.528367258736"></circle>
+    <circle r="5" style="fill:#cdcaa2" cx="751" cy="-81.51629463812617"></circle>
+    <circle r="22" style="fill:#0d004c" cx="1002" cy="-25.81729178859814"></circle>
+    <circle r="18" style="fill:#cdcaa2" cx="852" cy="-415.2768046458398"></circle>
+    <circle r="10" style="fill:#0d004c" cx="820" cy="-243.19181081607576"></circle>
+    <circle r="26" style="fill:#cdcaa2" cx="619" cy="-348.8403517792432"></circle>
+    <circle r="20" style="fill:#66ccff" cx="609" cy="-20.67696125169209"></circle>
+    <circle r="21" style="fill:#be6700" cx="736" cy="-362.8363938752434"></circle>
+    <circle r="20" style="fill:#be6700" cx="741" cy="-210.73571513148283"></circle>
+    <circle r="17" style="fill:#cdcaa2" cx="960" cy="6.870455985729677"></circle>
+    <circle r="10" style="fill:#b1a89e" cx="911" cy="-41.1705685867164"></circle>
+    <circle r="5" style="fill:#c16100" cx="114" cy="216.89434946597146"></circle>
+    <circle r="4" style="fill:#0d004c" cx="997" cy="-40.1528119529429"></circle>
+    <circle r="8" style="fill:#b1a89e" cx="455" cy="-63.954467842468716"></circle>
+    <circle r="17" style="fill:#b1a89e" cx="307" cy="76.30715382577023"></circle>
+    <circle r="6" style="fill:#c16100" cx="253" cy="-45.99593226380148"></circle>
+    <circle r="15" style="fill:#110000" cx="490" cy="-221.79817362032293"></circle>
+    <circle r="21" style="fill:#be6700" cx="625" cy="-218.12167273244972"></circle>
+    <circle r="5" style="fill:#110000" cx="1157" cy="-199.9224465262747"></circle>
+    <circle r="11" style="fill:#0d004c" cx="1182" cy="-335.7619997678795"></circle>
+    <circle r="20" style="fill:#cdcaa2" cx="701" cy="11.635343236172275"></circle>
+    <circle r="4" style="fill:#110000" cx="55" cy="315.70896999536194"></circle>
+    <circle r="8" style="fill:#be6700" cx="1019" cy="-420.0519779606767"></circle>
+    <circle r="24" style="fill:#66ccff" cx="149" cy="-186.6703955376487"></circle>
+    <circle r="8" style="fill:#c16100" cx="177" cy="49.4559538090615"></circle>
+    <circle r="5" style="fill:#be6700" cx="804" cy="-383.5744011582551"></circle>
+    <circle r="16" style="fill:#0d004c" cx="208" cy="-25.98113803042179"></circle>
+    <circle r="10" style="fill:#0d004c" cx="1168" cy="-385.17933475480595"></circle>
+    <circle r="8" style="fill:#cdcaa2" cx="1134" cy="-104.25533590828968"></circle>
+    <circle r="12" style="fill:#66ccff" cx="1245" cy="-76.65950497431959"></circle>
+    <circle r="11" style="fill:#be6700" cx="831" cy="-205.96182085141174"></circle>
+    <circle r="18" style="fill:#be6700" cx="519" cy="-206.4356547451181"></circle>
+    <circle r="19" style="fill:#be6700" cx="916" cy="-394.89760511522945"></circle>
+    <circle r="10" style="fill:#c16100" cx="1233" cy="-227.3730131536978"></circle>
+    <circle r="24" style="fill:#c16100" cx="323" cy="-240.44117945323023"></circle>
+    <circle r="12" style="fill:#cdcaa2" cx="426" cy="77.79341004075366"></circle>
+    <circle r="26" style="fill:#110000" cx="757" cy="-72.57329683765977"></circle>
+    <circle r="5" style="fill:#110000" cx="1182" cy="-399.7619997678795"></circle>
+    <circle r="25" style="fill:#be6700" cx="402" cy="-325.50418647166157"></circle>
+    <circle r="21" style="fill:#0d004c" cx="1200" cy="-325.7695328241957"></circle>
+    <circle r="10" style="fill:#be6700" cx="717" cy="-340.36234093256496"></circle>
+    <circle r="8" style="fill:#0d004c" cx="1023" cy="-337.57236742997134"></circle>
+    <circle r="9" style="fill:#c16100" cx="611" cy="-315.11246735376665"></circle>
+    <circle r="12" style="fill:#b1a89e" cx="320" cy="-111.2017063026733"></circle>
+    <circle r="18" style="fill:#0d004c" cx="727" cy="-211.20211053967785"></circle>
+    <circle r="11" style="fill:#c16100" cx="44" cy="159.3489588052875"></circle>
+    <circle r="23" style="fill:#ffffff" cx="797" cy="-384.4128638440757"></circle>
+    <circle r="11" style="fill:#c16100" cx="974" cy="-84.05264832975274"></circle>
+    <circle r="22" style="fill:#66ccff" cx="242" cy="-24.091438329644575"></circle>
+    <circle r="4" style="fill:#cdcaa2" cx="1101" cy="-356.33257656255637"></circle>
+    <circle r="23" style="fill:#ffffff" cx="121" cy="64.97877635694886"></circle>
+    <circle r="26" style="fill:#be6700" cx="184" cy="-41.69596450205643"></circle>
+    <circle r="15" style="fill:#66ccff" cx="449" cy="-35.19122192222835"></circle>
+    <circle r="22" style="fill:#b1a89e" cx="730" cy="-252.74910887813792"></circle>
+    <circle r="21" style="fill:#ffffff" cx="599" cy="-255.4777513770672"></circle>
+    <circle r="20" style="fill:#b1a89e" cx="151" cy="-8.441478338115758"></circle>
+    <circle r="8" style="fill:#b1a89e" cx="1060" cy="-160.29171351566333"></circle>
+    <circle r="23" style="fill:#110000" cx="770" cy="18.164984933460005"></circle>
+    <circle r="15" style="fill:#be6700" cx="849" cy="-73.8082706780616"></circle>
+    <circle r="25" style="fill:#c16100" cx="1330" cy="-96.43200138085263"></circle>
+    <circle r="26" style="fill:#c16100" cx="892" cy="-85.37095790747503"></circle>
+    <circle r="19" style="fill:#110000" cx="845" cy="-204.18097675120816"></circle>
+    <circle r="10" style="fill:#b1a89e" cx="135" cy="194.4360686820968"></circle>
+    <circle r="21" style="fill:#be6700" cx="872" cy="-41.35882788042875"></circle>
+    <circle r="21" style="fill:#c16100" cx="618" cy="-243.62559143796977"></circle>
+    <circle r="9" style="fill:#c16100" cx="544" cy="-260.6846547503595"></circle>
+    <circle r="10" style="fill:#110000" cx="181" cy="-173.51242094011593"></circle>
+    <circle r="11" style="fill:#110000" cx="853" cy="-233.43261609143838"></circle>
+    <circle r="4" style="fill:#be6700" cx="414" cy="-247.41121055206327"></circle>
+    <circle r="11" style="fill:#110000" cx="33" cy="283.5615504668775"></circle>
+    <circle r="22" style="fill:#c16100" cx="341" cy="-120.64452971837443"></circle>
+    <circle r="16" style="fill:#ffffff" cx="957" cy="-303.71380269790905"></circle>
+    <circle r="13" style="fill:#b1a89e" cx="616" cy="-203.19502625661448"></circle>
+    <circle r="8" style="fill:#110000" cx="1206" cy="-377.4320241832586"></circle>
+    <circle r="9" style="fill:#0d004c" cx="462" cy="-313.9824345950244"></circle>
+    <circle r="16" style="fill:#be6700" cx="1303" cy="-413.70772089965044"></circle>
+    <circle r="8" style="fill:#be6700" cx="147" cy="258.1246215377861"></circle>
+    <circle r="17" style="fill:#be6700" cx="1235" cy="-407.5882956029984"></circle>
+    <circle r="19" style="fill:#be6700" cx="1090" cy="-330.99881669035426"></circle>
+    <circle r="23" style="fill:#ffffff" cx="927" cy="-259.48321446297325"></circle>
+    <circle r="18" style="fill:#cdcaa2" cx="218" cy="197.78160149275823"></circle>
+    <circle r="7" style="fill:#ffffff" cx="936" cy="-141.76659876702217"></circle>
+    <circle r="8" style="fill:#be6700" cx="116" cy="28.58421746202646"></circle>
+    <circle r="23" style="fill:#0d004c" cx="954" cy="-213.29675606915123"></circle>
+    <circle r="19" style="fill:#be6700" cx="408" cy="-155.47206308876946"></circle>
+    <circle r="6" style="fill:#ffffff" cx="1023" cy="-34.57236742997134"></circle>
+    <circle r="14" style="fill:#cdcaa2" cx="345" cy="-87.1935763369853"></circle>
+    <circle r="15" style="fill:#be6700" cx="146" cy="-138.96869069502543"></circle>
+    <circle r="11" style="fill:#110000" cx="203" cy="165.25087645990493"></circle>
+    <circle r="4" style="fill:#cdcaa2" cx="1061" cy="-353.4169650498302"></circle>
+    <circle r="12" style="fill:#110000" cx="1183" cy="-352.8743289434042"></circle>
+    <circle r="16" style="fill:#ffffff" cx="275" cy="-112.07144818775055"></circle>
+    <circle r="26" style="fill:#0d004c" cx="317" cy="110.04944180606094"></circle>
+    <circle r="25" style="fill:#0d004c" cx="83" cy="18.048750920389807"></circle>
+    <circle r="15" style="fill:#0d004c" cx="397" cy="-261.84172118928257"></circle>
+    <circle r="4" style="fill:#66ccff" cx="225" cy="74.58348821058121"></circle>
+    <circle r="8" style="fill:#be6700" cx="819" cy="-325.02972508255027"></circle>
+    <circle r="20" style="fill:#66ccff" cx="924" cy="-15.05264928161796"></circle>
+    <circle r="16" style="fill:#cdcaa2" cx="1149" cy="-13.000817558148583"></circle>
+    <circle r="9" style="fill:#ffffff" cx="961" cy="-440.2678357936978"></circle>
+    <circle r="23" style="fill:#0d004c" cx="810" cy="-165.56198371609355"></circle>
+    <circle r="12" style="fill:#ffffff" cx="1199" cy="-270.6587956421739"></circle>
+    <circle r="25" style="fill:#ffffff" cx="38" cy="267.8221871775684"></circle>
+    <circle r="20" style="fill:#c16100" cx="144" cy="93.86346583043223"></circle>
+    <circle r="5" style="fill:#0d004c" cx="1308" cy="-108.21645090543223"></circle>
+    <circle r="25" style="fill:#be6700" cx="866" cy="-386.4417063395899"></circle>
+    <circle r="5" style="fill:#b1a89e" cx="355" cy="-251.98895574416838"></circle>
+    <circle r="25" style="fill:#110000" cx="904" cy="-233.14598533033507"></circle>
+    <circle r="15" style="fill:#be6700" cx="960" cy="-369.1295440142703"></circle>
+    <circle r="5" style="fill:#be6700" cx="483" cy="-53.88692852918132"></circle>
+    <circle r="12" style="fill:#ffffff" cx="799" cy="-0.7457693871109541"></circle>
+    <circle r="17" style="fill:#cdcaa2" cx="337" cy="-223.077204841891"></circle>
+    <circle r="23" style="fill:#66ccff" cx="591" cy="-204.69178508128596"></circle>
+    <circle r="4" style="fill:#c16100" cx="141" cy="-133.34002578131572"></circle>
+    <circle r="4" style="fill:#110000" cx="1136" cy="-48.489396307429956"></circle>
+    <circle r="26" style="fill:#be6700" cx="584" cy="9.890879931787595"></circle>
+    <circle r="17" style="fill:#c16100" cx="97" cy="-4.65539229297417"></circle>
+    <circle r="23" style="fill:#cdcaa2" cx="392" cy="-221.15818481039742"></circle>
+    <circle r="14" style="fill:#0d004c" cx="913" cy="3.538139098864349"></circle>
+    <circle r="17" style="fill:#be6700" cx="1013" cy="-364.26755102260756"></circle>
+    <circle r="6" style="fill:#be6700" cx="844" cy="-240.02368929394027"></circle>
+    <circle r="4" style="fill:#c16100" cx="1027" cy="-191.09072610592852"></circle>
+    <circle r="23" style="fill:#ffffff" cx="1026" cy="-375.96132595722236"></circle>
+    <circle r="8" style="fill:#be6700" cx="345" cy="72.8064236630147"></circle>
+    <circle r="17" style="fill:#be6700" cx="237" cy="-190.3182845334777"></circle>
+    <circle r="24" style="fill:#110000" cx="723" cy="-285.46925768954566"></circle>
+    <circle r="16" style="fill:#b1a89e" cx="437" cy="98.407081421886"></circle>
+    <circle r="16" style="fill:#be6700" cx="521" cy="-90.94653707545058"></circle>
+    <circle r="11" style="fill:#66ccff" cx="1066" cy="-316.04145723041756"></circle>
+    <circle r="10" style="fill:#be6700" cx="1328" cy="-189.23210782598403"></circle>
+    <circle r="20" style="fill:#be6700" cx="655" cy="-33.349183916290144"></circle>
+    <circle r="20" style="fill:#be6700" cx="574" cy="-205.81494832167823"></circle>
+    <circle r="10" style="fill:#110000" cx="421" cy="-87.63833983997733"></circle>
+    <circle r="4" style="fill:#be6700" cx="808" cy="41.76639529451995"></circle>
+    <circle r="26" style="fill:#be6700" cx="76" cy="342.75197249097494"></circle>
+    <circle r="25" style="fill:#66ccff" cx="1225" cy="-70.50837711684187"></circle>
+    <circle r="13" style="fill:#cdcaa2" cx="1026" cy="-145.96132595722236"></circle>
+    <circle r="17" style="fill:#ffffff" cx="1169" cy="-314.2930097657163"></circle>
+    <circle r="18" style="fill:#b1a89e" cx="398" cy="107.82411701902731"></circle>
+    <circle r="26" style="fill:#0d004c" cx="232" cy="-7.485997224567086"></circle>
+    <circle r="14" style="fill:#b1a89e" cx="454" cy="-173.66221416650149"></circle>
+    <circle r="25" style="fill:#66ccff" cx="483" cy="-316.8869285291813"></circle>
+    <circle r="14" style="fill:#cdcaa2" cx="62" cy="268.7958674165576"></circle>
+    <circle r="8" style="fill:#be6700" cx="87" cy="245.79680912361653"></circle>
+    <circle r="6" style="fill:#0d004c" cx="172" cy="160.26220971509542"></circle>
+    <circle r="7" style="fill:#cdcaa2" cx="964" cy="-415.6818493511357"></circle>
+    <circle r="23" style="fill:#ffffff" cx="798" cy="43.420579090662955"></circle>
+    <circle r="4" style="fill:#110000" cx="1098" cy="-88.97015002899809"></circle>
+    <circle r="8" style="fill:#cdcaa2" cx="713" cy="-326.6192383391249"></circle>
+    <circle r="6" style="fill:#ffffff" cx="611" cy="-221.11246735376665"></circle>
+    <circle r="6" style="fill:#b1a89e" cx="187" cy="237.15580686108228"></circle>
+    <circle r="18" style="fill:#66ccff" cx="269" cy="-96.14127255534743"></circle>
+    <circle r="25" style="fill:#be6700" cx="742" cy="-66.9148510212658"></circle>
+    <circle r="9" style="fill:#be6700" cx="465" cy="79.15782620844175"></circle>
+    <circle r="16" style="fill:#ffffff" cx="18" cy="100.07410989021264"></circle>
+    <circle r="15" style="fill:#ffffff" cx="284" cy="-114.34896693424287"></circle>
+    <circle r="26" style="fill:#b1a89e" cx="1015" cy="-188.52954172320756"></circle>
+    <circle r="5" style="fill:#be6700" cx="207" cy="128.65900413453028"></circle>
+    <circle r="15" style="fill:#cdcaa2" cx="699" cy="-344.98514438525035"></circle>
+    <circle r="20" style="fill:#be6700" cx="480" cy="-326.0593293276768"></circle>
+    <circle r="18" style="fill:#be6700" cx="964" cy="-128.68184935113572"></circle>
+    <circle r="17" style="fill:#66ccff" cx="838" cy="-106.07603313065249"></circle>
+    <circle r="13" style="fill:#b1a89e" cx="1116" cy="-123.13002269322976"></circle>
+    <circle r="23" style="fill:#0d004c" cx="1342" cy="-183.62508642732985"></circle>
+    <circle r="22" style="fill:#b1a89e" cx="593" cy="-37.140532947768065"></circle>
+    <circle r="13" style="fill:#ffffff" cx="225" cy="-101.41651178941879"></circle>
+    <circle r="18" style="fill:#c16100" cx="1107" cy="-94.05447639456702"></circle>
+    <circle r="20" style="fill:#c16100" cx="1097" cy="-84.84912109839968"></circle>
+    <circle r="24" style="fill:#cdcaa2" cx="298" cy="169.25938977575788"></circle>
+    <circle r="19" style="fill:#66ccff" cx="624" cy="-98.9089757420187"></circle>
+    <circle r="14" style="fill:#be6700" cx="593" cy="-194.14053294776807"></circle>
+    <circle r="25" style="fill:#110000" cx="870" cy="32.946176253910494"></circle>
+    <circle r="20" style="fill:#ffffff" cx="805" cy="0.2604909993031015"></circle>
+    <circle r="24" style="fill:#110000" cx="1254" cy="-252.6162623555541"></circle>
+    <circle r="19" style="fill:#ffffff" cx="553" cy="-289.8642171971893"></circle>
+    <circle r="4" style="fill:#66ccff" cx="964" cy="-46.681849351135725"></circle>
+    <circle r="7" style="fill:#b1a89e" cx="301" cy="-19.071131287026105"></circle>
+    <circle r="22" style="fill:#c16100" cx="1056" cy="-30.789522966089862"></circle>
+    <circle r="8" style="fill:#b1a89e" cx="1244" cy="-43.55277194957955"></circle>
+    <circle r="26" style="fill:#be6700" cx="301" cy="-89.0711312870261"></circle>
+    <circle r="20" style="fill:#c16100" cx="172" cy="-154.73779028490458"></circle>
+    <circle r="14" style="fill:#0d004c" cx="335" cy="-14.286552256583605"></circle>
+    <circle r="7" style="fill:#b1a89e" cx="856" cy="-50.89895680031634"></circle>
+    <circle r="13" style="fill:#b1a89e" cx="908" cy="-94.73242885309503"></circle>
+    <circle r="8" style="fill:#110000" cx="367" cy="113.59526114904054"></circle>
+    <circle r="20" style="fill:#c16100" cx="696" cy="-370.413834936164"></circle>
+    <circle r="15" style="fill:#b1a89e" cx="958" cy="-73.8525277675858"></circle>
+    <circle r="17" style="fill:#cdcaa2" cx="551" cy="-220.38295130062477"></circle>
+    <circle r="18" style="fill:#ffffff" cx="320" cy="-45.2017063026733"></circle>
+    <circle r="17" style="fill:#be6700" cx="390" cy="121.52125013464934"></circle>
+    <circle r="7" style="fill:#cdcaa2" cx="43" cy="59.40263908828234"></circle>
+    <circle r="23" style="fill:#ffffff" cx="1107" cy="-224.05447639456702"></circle>
+    <circle r="16" style="fill:#cdcaa2" cx="560" cy="-305.53504730479483"></circle>
+    <circle r="26" style="fill:#c16100" cx="334" cy="-228.88945407700123"></circle>
+    <circle r="24" style="fill:#0d004c" cx="117" cy="-155.55595470724165"></circle>
+    <circle r="5" style="fill:#be6700" cx="922" cy="-285.7648284926387"></circle>
+    <circle r="14" style="fill:#ffffff" cx="444" cy="-200.70375685803822"></circle>
+    <circle r="20" style="fill:#b1a89e" cx="820" cy="-228.19181081607576"></circle>
+    <circle r="26" style="fill:#0d004c" cx="1022" cy="-112.44246107033393"></circle>
+    <circle r="6" style="fill:#cdcaa2" cx="424" cy="-206.58151001914428"></circle>
+    <circle r="26" style="fill:#66ccff" cx="1266" cy="-163.88131231894363"></circle>
+    <circle r="7" style="fill:#0d004c" cx="148" cy="-124.77591914644131"></circle>
+    <circle r="16" style="fill:#66ccff" cx="899" cy="28.590728938364578"></circle>
+    <circle r="20" style="fill:#b1a89e" cx="311" cy="45.587657423607425"></circle>
+    <circle r="22" style="fill:#110000" cx="805" cy="-23.7395090006969"></circle>
+    <circle r="4" style="fill:#0d004c" cx="855" cy="-113.74369174214439"></circle>
+    <circle r="17" style="fill:#be6700" cx="595" cy="-310.58776987581314"></circle>
+    <circle r="23" style="fill:#0d004c" cx="140" cy="245.60538206839215"></circle>
+    <circle r="8" style="fill:#be6700" cx="1287" cy="-466.0665665287672"></circle>
+    <circle r="6" style="fill:#be6700" cx="788" cy="22.095623257123975"></circle>
+    <circle r="17" style="fill:#66ccff" cx="854" cy="5.41175501888722"></circle>
+    <circle r="10" style="fill:#0d004c" cx="1175" cy="-357.9730244359438"></circle>
+    <circle r="17" style="fill:#cdcaa2" cx="1175" cy="-309.9730244359438"></circle>
+    <circle r="5" style="fill:#c16100" cx="561" cy="-123.77203085051451"></circle>
+    <circle r="22" style="fill:#110000" cx="1042" cy="-443.016751762044"></circle>
+    <circle r="12" style="fill:#c16100" cx="444" cy="-211.70375685803822"></circle>
+    <circle r="26" style="fill:#b1a89e" cx="646" cy="-124.51139413982378"></circle>
+    <circle r="4" style="fill:#110000" cx="377" cy="15.024367551165597"></circle>
+    <circle r="19" style="fill:#0d004c" cx="1326" cy="-277.0319129996303"></circle>
+    <circle r="23" style="fill:#b1a89e" cx="1346" cy="-319.0204118445589"></circle>
+    <circle r="5" style="fill:#110000" cx="225" cy="-223.4165117894188"></circle>
+    <circle r="12" style="fill:#b1a89e" cx="1301" cy="-482.50368208511793"></circle>
+    <circle r="25" style="fill:#be6700" cx="657" cy="-155.75415143162593"></circle>
+    <circle r="15" style="fill:#cdcaa2" cx="409" cy="-171.79722663460745"></circle>
+    <circle r="23" style="fill:#be6700" cx="103" cy="277.37246096022056"></circle>
+    <circle r="12" style="fill:#c16100" cx="627" cy="-342.5460476689607"></circle>
+    <circle r="4" style="fill:#110000" cx="548" cy="-205.65776710369096"></circle>
+    <circle r="7" style="fill:#c16100" cx="1298" cy="-240.1970349874606"></circle>
+    <circle r="5" style="fill:#b1a89e" cx="1032" cy="-182.73584268309503"></circle>
+    <circle r="8" style="fill:#66ccff" cx="1348" cy="-301.21763421507796"></circle>
+    <circle r="14" style="fill:#ffffff" cx="768" cy="-242.4895552043448"></circle>
+    <circle r="20" style="fill:#b1a89e" cx="1180" cy="-264.53705603564106"></circle>
+    <circle r="9" style="fill:#c16100" cx="1342" cy="-470.62508642732985"></circle>
+    <circle r="26" style="fill:#b1a89e" cx="1313" cy="-300.7232399297475"></circle>
+    <circle r="19" style="fill:#c16100" cx="285" cy="182.18414596945252"></circle>
+    <circle r="6" style="fill:#be6700" cx="466" cy="-27.127521360246874"></circle>
+    <circle r="13" style="fill:#b1a89e" cx="386" cy="-286.10936410660315"></circle>
+    <circle r="4" style="fill:#110000" cx="514" cy="-246.1497856311371"></circle>
+    <circle r="24" style="fill:#c16100" cx="425" cy="110.10558231638299"></circle>
+    <circle r="22" style="fill:#66ccff" cx="1204" cy="-293.2115606602131"></circle>
+    <circle r="26" style="fill:#c16100" cx="1227" cy="-472.72506434620425"></circle>
+    <circle r="12" style="fill:#66ccff" cx="547" cy="-67.4151565483138"></circle>
+    <circle r="25" style="fill:#cdcaa2" cx="1233" cy="-32.3730131536978"></circle>
+    <circle r="26" style="fill:#66ccff" cx="760" cy="-194.0986603787311"></circle>
+    <circle r="10" style="fill:#cdcaa2" cx="1191" cy="-123.76955890087947"></circle>
+    <circle r="20" style="fill:#b1a89e" cx="953" cy="-413.15744903788004"></circle>
+    <circle r="21" style="fill:#be6700" cx="477" cy="22.773458617442202"></circle>
+    <circle r="22" style="fill:#ffffff" cx="1085" cy="-276.38810645526996"></circle>
+    <circle r="26" style="fill:#66ccff" cx="347" cy="-223.96137756235646"></circle>
+    <circle r="14" style="fill:#c16100" cx="1138" cy="-113.72304499061579"></circle>
+    <circle r="23" style="fill:#ffffff" cx="320" cy="-182.2017063026733"></circle>
+    <circle r="13" style="fill:#110000" cx="954" cy="-29.29675606915123"></circle>
+    <circle r="14" style="fill:#66ccff" cx="259" cy="-98.10926014856284"></circle>
+    <circle r="9" style="fill:#0d004c" cx="1108" cy="-337.1744125130018"></circle>
+    <circle r="24" style="fill:#66ccff" cx="443" cy="-325.4042544940738"></circle>
+    <circle r="9" style="fill:#cdcaa2" cx="1204" cy="-188.21156066021308"></circle>
+    <circle r="26" style="fill:#b1a89e" cx="679" cy="-235.1291626682828"></circle>
+    <circle r="11" style="fill:#c16100" cx="1138" cy="-103.72304499061579"></circle>
+    <circle r="5" style="fill:#c16100" cx="241" cy="-133.54141997794875"></circle>
+    <circle r="16" style="fill:#c16100" cx="1113" cy="-148.77247404626928"></circle>
+    <circle r="7" style="fill:#b1a89e" cx="199" cy="65.89433170562074"></circle>
+    <circle r="5" style="fill:#be6700" cx="876" cy="-343.9667430932159"></circle>
+    <circle r="4" style="fill:#110000" cx="1257" cy="-316.93365615565597"></circle>
+    <circle r="8" style="fill:#b1a89e" cx="5" cy="286.2195818168875"></circle>
+    <circle r="6" style="fill:#be6700" cx="722" cy="-124.28541095826972"></circle>
+    <circle r="19" style="fill:#be6700" cx="1009" cy="-136.74201426527804"></circle>
+    <circle r="24" style="fill:#cdcaa2" cx="562" cy="-101.00859234161067"></circle>
+    <circle r="5" style="fill:#be6700" cx="135" cy="31.43606868209679"></circle>
+    <circle r="19" style="fill:#ffffff" cx="1031" cy="-56.60706977708901"></circle>
+    <circle r="5" style="fill:#be6700" cx="353" cy="46.76149394770596"></circle>
+    <circle r="8" style="fill:#c16100" cx="98" cy="-89.01775543721055"></circle>
+    <circle r="11" style="fill:#be6700" cx="230" cy="138.66404668801817"></circle>
+    <circle r="21" style="fill:#0d004c" cx="110" cy="103.63875530876851"></circle>
+    <circle r="18" style="fill:#cdcaa2" cx="285" cy="-228.81585403054748"></circle>
+    <circle r="17" style="fill:#cdcaa2" cx="315" cy="61.89013601838519"></circle>
+    <circle r="11" style="fill:#66ccff" cx="256" cy="156.4382825072522"></circle>
+    <circle r="19" style="fill:#66ccff" cx="580" cy="20.80379927891397"></circle>
+    <circle r="18" style="fill:#be6700" cx="439" cy="-197.19944585179667"></circle>
+    <circle r="20" style="fill:#ffffff" cx="683" cy="-57.909366039993984"></circle>
+    <circle r="10" style="fill:#be6700" cx="1293" cy="-355.68437807111195"></circle>
+    <circle r="8" style="fill:#be6700" cx="313" cy="-9.263814992992252"></circle>
+    <circle r="17" style="fill:#cdcaa2" cx="242" cy="-134.09143832964457"></circle>
+    <circle r="23" style="fill:#0d004c" cx="1092" cy="-448.2423167441402"></circle>
+    <circle r="5" style="fill:#be6700" cx="106" cy="309.5589193540427"></circle>
+    <circle r="13" style="fill:#b1a89e" cx="756" cy="-364.3977128832863"></circle>
+    <circle r="7" style="fill:#b1a89e" cx="9" cy="201.14432457680618"></circle>
+    <circle r="14" style="fill:#be6700" cx="466" cy="77.87247863975313"></circle>
+    <circle r="11" style="fill:#66ccff" cx="914" cy="-264.6072678583405"></circle>
+    <circle r="20" style="fill:#be6700" cx="5" cy="671.2195818168875"></circle>
+    <circle r="4" style="fill:#110000" cx="598" cy="78.74418558708282"></circle>
+    <circle r="26" style="fill:#110000" cx="877" cy="-81.11828816629065"></circle>
+    <circle r="21" style="fill:#cdcaa2" cx="277" cy="114.96601686018516"></circle>
+    <circle r="26" style="fill:#cdcaa2" cx="1170" cy="-328.4065875769477"></circle>
+    <circle r="13" style="fill:#b1a89e" cx="852" cy="-238.27680464583977"></circle>
+    <circle r="8" style="fill:#66ccff" cx="1048" cy="-314.7794097929582"></circle>
+    <circle r="26" style="fill:#c16100" cx="415" cy="-192.73166726272257"></circle>
+    <circle r="25" style="fill:#0d004c" cx="818" cy="-357.8674413212009"></circle>
+    <circle r="6" style="fill:#0d004c" cx="328" cy="-45.4816073195567"></circle>
+    <circle r="6" style="fill:#66ccff" cx="239" cy="81.56549677903183"></circle>
+    <circle r="23" style="fill:#be6700" cx="1213" cy="-30.200777627119578"></circle>
+    <circle r="21" style="fill:#be6700" cx="1088" cy="-394.75486943695296"></circle>
+    <circle r="11" style="fill:#be6700" cx="342" cy="90.96651175437455"></circle>
+    <circle r="24" style="fill:#c16100" cx="917" cy="-375.0425361084863"></circle>
+    <circle r="6" style="fill:#be6700" cx="957" cy="6.2861973020909545"></circle>
+    <circle r="14" style="fill:#be6700" cx="588" cy="-48.01580783540089"></circle>
+    <circle r="8" style="fill:#be6700" cx="617" cy="-186.41048330651824"></circle>
+    <circle r="8" style="fill:#be6700" cx="1048" cy="-428.7794097929582"></circle>
+    <circle r="19" style="fill:#be6700" cx="905" cy="-322.2928391232282"></circle>
+    <circle r="4" style="fill:#be6700" cx="1002" cy="-372.81729178859814"></circle>
+    <circle r="9" style="fill:#cdcaa2" cx="1282" cy="-347.54951939033947"></circle>
+    <circle r="7" style="fill:#be6700" cx="1010" cy="-139.87359351540556"></circle>
+    <circle r="19" style="fill:#66ccff" cx="232" cy="-24.485997224567086"></circle>
+    <circle r="10" style="fill:#110000" cx="772" cy="-92.17957879319658"></circle>
+    <circle r="25" style="fill:#c16100" cx="871" cy="-29.206413357518954"></circle>
+    <circle r="17" style="fill:#110000" cx="1235" cy="-131.58829560299841"></circle>
+    <circle r="16" style="fill:#110000" cx="276" cy="0.44641247294021014"></circle>
+    <circle r="20" style="fill:#cdcaa2" cx="1062" cy="-407.54209858912895"></circle>
+    <circle r="18" style="fill:#cdcaa2" cx="1106" cy="-133.93443188378274"></circle>
+    <circle r="15" style="fill:#c16100" cx="492" cy="-23.339230344560065"></circle>
+    <circle r="22" style="fill:#be6700" cx="1147" cy="-54.769407670103305"></circle>
+    <circle r="21" style="fill:#66ccff" cx="947" cy="-9.318524719887137"></circle>
+    <circle r="26" style="fill:#0d004c" cx="1098" cy="-297.9701500289981"></circle>
+    <circle r="25" style="fill:#be6700" cx="771" cy="-50.00740865614034"></circle>
+    <circle r="5" style="fill:#c16100" cx="613" cy="-179.54655023074804"></circle>
+    <circle r="5" style="fill:#be6700" cx="996" cy="-3.0195161643940764"></circle>
+    <circle r="17" style="fill:#0d004c" cx="631" cy="-58.390751578575646"></circle>
+    <circle r="24" style="fill:#be6700" cx="41" cy="69.72903674022376"></circle>
+    <circle r="18" style="fill:#cdcaa2" cx="456" cy="-264.2460799072155"></circle>
+    <circle r="9" style="fill:#be6700" cx="1234" cy="-274.4806979931117"></circle>
+    <circle r="8" style="fill:#66ccff" cx="1282" cy="-40.54951939033947"></circle>
+    <circle r="4" style="fill:#be6700" cx="1081" cy="-423.8975085119947"></circle>
+    <circle r="23" style="fill:#b1a89e" cx="948" cy="-226.45871390666457"></circle>
+    <circle r="13" style="fill:#0d004c" cx="1157" cy="-20.92244652627471"></circle>
+    <circle r="24" style="fill:#c16100" cx="43" cy="242.40263908828234"></circle>
+    <circle r="17" style="fill:#be6700" cx="479" cy="92.21768691900775"></circle>
+    <circle r="25" style="fill:#be6700" cx="803" cy="-353.40908782995746"></circle>
+    <circle r="25" style="fill:#66ccff" cx="1146" cy="-104.65355136782432"></circle>
+    <circle r="9" style="fill:#be6700" cx="197" cy="-127.76394736968905"></circle>
+    <circle r="26" style="fill:#cdcaa2" cx="755" cy="-396.22189652122825"></circle>
+    <circle r="16" style="fill:#be6700" cx="1318" cy="-29.22810272735478"></circle>
+    <circle r="25" style="fill:#be6700" cx="278" cy="81.48735240654514"></circle>
+    <circle r="13" style="fill:#110000" cx="669" cy="-338.1583662458851"></circle>
+    <circle r="16" style="fill:#110000" cx="682" cy="25.285255595032027"></circle>
+    <circle r="22" style="fill:#be6700" cx="444" cy="-11.703756858038219"></circle>
+    <circle r="25" style="fill:#66ccff" cx="569" cy="-115.65283030402236"></circle>
+    <circle r="7" style="fill:#ffffff" cx="746" cy="-147.6289884518926"></circle>
+    <circle r="26" style="fill:#be6700" cx="121" cy="-81.02122364305114"></circle>
+    <circle r="6" style="fill:#be6700" cx="918" cy="-137.1873091387764"></circle>
+    <circle r="20" style="fill:#ffffff" cx="136" cy="-160.54422537717255"></circle>
+    <circle r="11" style="fill:#cdcaa2" cx="920" cy="6.523617314831085"></circle>
+    <circle r="13" style="fill:#ffffff" cx="803" cy="-412.40908782995746"></circle>
+    <circle r="23" style="fill:#ffffff" cx="1106" cy="-407.93443188378274"></circle>
+    <circle r="26" style="fill:#66ccff" cx="564" cy="11.519544845497194"></circle>
+    <circle r="10" style="fill:#be6700" cx="1143" cy="-4.305374911215381"></circle>
+    <circle r="25" style="fill:#be6700" cx="912" cy="-150.31629459380895"></circle>
+    <circle r="5" style="fill:#ffffff" cx="869" cy="-164.90105864340626"></circle>
+    <circle r="8" style="fill:#0d004c" cx="396" cy="-85.50671661790636"></circle>
+    <circle r="26" style="fill:#cdcaa2" cx="316" cy="-158.53087619506778"></circle>
+    <circle r="6" style="fill:#be6700" cx="1201" cy="-227.88017776365632"></circle>
+    <circle r="5" style="fill:#66ccff" cx="39" cy="212.37188300435525"></circle>
+    <circle r="12" style="fill:#ffffff" cx="662" cy="-369.7612013056985"></circle>
+    <circle r="12" style="fill:#66ccff" cx="43" cy="397.40263908828234"></circle>
+    <circle r="21" style="fill:#be6700" cx="841" cy="-260.55070632957325"></circle>
+    <circle r="24" style="fill:#be6700" cx="1069" cy="-20.41474808633427"></circle>
+    <circle r="16" style="fill:#0d004c" cx="367" cy="-222.40473885095946"></circle>
+    <circle r="4" style="fill:#cdcaa2" cx="1106" cy="-118.93443188378274"></circle>
+    <circle r="22" style="fill:#cdcaa2" cx="1044" cy="-423.27145796116736"></circle>
+    <circle r="16" style="fill:#be6700" cx="245" cy="-230.7279589337295"></circle>
+    <circle r="4" style="fill:#c16100" cx="659" cy="-111.15788804076135"></circle>
+    <circle r="26" style="fill:#be6700" cx="71" cy="279.7914624389441"></circle>
+    <circle r="7" style="fill:#b1a89e" cx="1100" cy="-27.21187756093741"></circle>
+    <circle r="18" style="fill:#110000" cx="1339" cy="-226.32781832382716"></circle>
+    <circle r="8" style="fill:#0d004c" cx="238" cy="-183.8775663792942"></circle>
+    <circle r="6" style="fill:#66ccff" cx="413" cy="-277.0899788546502"></circle>
+    <circle r="11" style="fill:#66ccff" cx="566" cy="-251.95064765305813"></circle>
+    <circle r="15" style="fill:#cdcaa2" cx="715" cy="-235.99130928868578"></circle>
+    <circle r="26" style="fill:#110000" cx="1107" cy="-454.054476394567"></circle>
+    <circle r="24" style="fill:#b1a89e" cx="713" cy="-358.6192383391249"></circle>
+    <circle r="22" style="fill:#0d004c" cx="1141" cy="-329.07274920877774"></circle>
+    <circle r="13" style="fill:#cdcaa2" cx="1051" cy="-327.1591029780602"></circle>
+    <circle r="13" style="fill:#110000" cx="524" cy="-148.70919510636475"></circle>
+    <circle r="6" style="fill:#110000" cx="179" cy="190.96347471236447"></circle>
+    <circle r="5" style="fill:#be6700" cx="752" cy="-112.69304681609276"></circle>
+    <circle r="20" style="fill:#ffffff" cx="635" cy="-139.23011767113405"></circle>
+    <circle r="18" style="fill:#c16100" cx="640" cy="-161.27192098926685"></circle>
+    <circle r="4" style="fill:#cdcaa2" cx="1301" cy="-35.50368208511793"></circle>
+    <circle r="5" style="fill:#cdcaa2" cx="315" cy="61.89013601838519"></circle>
+    <circle r="19" style="fill:#0d004c" cx="1129" cy="-162.66837409526875"></circle>
+    <circle r="7" style="fill:#cdcaa2" cx="518" cy="-32.179474835156384"></circle>
+    <circle r="20" style="fill:#cdcaa2" cx="800" cy="-371.91190979919224"></circle>
+    <circle r="23" style="fill:#66ccff" cx="778" cy="-237.20793935270376"></circle>
+    <circle r="23" style="fill:#c16100" cx="154" cy="-44.05459688342762"></circle>
+    <circle r="7" style="fill:#be6700" cx="826" cy="-399.16019354124364"></circle>
+    <circle r="20" style="fill:#cdcaa2" cx="295" cy="-285.3966266624542"></circle>
+    <circle r="13" style="fill:#be6700" cx="388" cy="-185.79582166616115"></circle>
+    <circle r="18" style="fill:#be6700" cx="198" cy="-146.43650193131282"></circle>
+    <circle r="4" style="fill:#c16100" cx="3" cy="766.0721622884031"></circle>
+    <circle r="11" style="fill:#be6700" cx="783" cy="-199.0588662995773"></circle>
+    <circle r="11" style="fill:#110000" cx="441" cy="42.19678382618906"></circle>
+    <circle r="13" style="fill:#b1a89e" cx="1067" cy="-99.16600411449974"></circle>
+    <circle r="26" style="fill:#cdcaa2" cx="80" cy="229.93872307051367"></circle>
+    <circle r="16" style="fill:#b1a89e" cx="569" cy="-340.65283030402236"></circle>
+    <circle r="15" style="fill:#ffffff" cx="874" cy="-387.66313326470754"></circle>
+    <circle r="21" style="fill:#110000" cx="284" cy="-140.34896693424287"></circle>
+    <circle r="6" style="fill:#cdcaa2" cx="29" cy="306.7246468352134"></circle>
+    <circle r="17" style="fill:#be6700" cx="380" cy="-29.028445692137552"></circle>
+    <circle r="14" style="fill:#b1a89e" cx="1106" cy="-319.93443188378274"></circle>
+    <circle r="16" style="fill:#be6700" cx="1270" cy="-59.3003323577276"></circle>
+    <circle r="25" style="fill:#0d004c" cx="630" cy="23.819921331791647"></circle>
+    <circle r="6" style="fill:#be6700" cx="131" cy="117.43123426682234"></circle>
+    <circle r="10" style="fill:#c16100" cx="691" cy="4.543842190964483"></circle>
+    <circle r="5" style="fill:#110000" cx="1002" cy="-132.81729178859814"></circle>
+    <circle r="15" style="fill:#0d004c" cx="725" cy="-232.83618953101154"></circle>
+    <circle r="22" style="fill:#b1a89e" cx="964" cy="-59.681849351135725"></circle>
+    <circle r="14" style="fill:#0d004c" cx="1159" cy="-98.15185805504893"></circle>
+    <circle r="21" style="fill:#cdcaa2" cx="971" cy="-11.642891987918915"></circle>
+    <circle r="13" style="fill:#cdcaa2" cx="1130" cy="-313.7859741402606"></circle>
+    <circle r="23" style="fill:#66ccff" cx="163" cy="2.4010211665308816"></circle>
+    <circle r="19" style="fill:#110000" cx="333" cy="149.50883480355174"></circle>
+    <circle r="7" style="fill:#66ccff" cx="527" cy="-209.467499214241"></circle>
+    <circle r="19" style="fill:#110000" cx="78" cy="296.3016683177618"></circle>
+    <circle r="22" style="fill:#c16100" cx="305" cy="-279.8246781023232"></circle>
+    <circle r="23" style="fill:#cdcaa2" cx="913" cy="-218.46186090113565"></circle>
+    <circle r="15" style="fill:#66ccff" cx="1067" cy="-167.16600411449974"></circle>
+    <circle r="24" style="fill:#c16100" cx="871" cy="-216.20641335751895"></circle>
+    <circle r="7" style="fill:#c16100" cx="412" cy="-35.76796841296641"></circle>
+    <circle r="8" style="fill:#cdcaa2" cx="522" cy="-345.20124327457404"></circle>
+    <circle r="20" style="fill:#ffffff" cx="327" cy="110.92397846775475"></circle>
+    <circle r="14" style="fill:#be6700" cx="90" cy="-125.70630829289973"></circle>
+    <circle r="15" style="fill:#be6700" cx="1189" cy="-71.54631642456286"></circle>
+    <circle r="9" style="fill:#c16100" cx="61" cy="133.95574008078927"></circle>
+    <circle r="8" style="fill:#66ccff" cx="1120" cy="-387.6052619913884"></circle>
+    <circle r="20" style="fill:#cdcaa2" cx="729" cy="-316.56702626958156"></circle>
+    <circle r="13" style="fill:#be6700" cx="1255" cy="-453.7221445788904"></circle>
+    <circle r="6" style="fill:#110000" cx="318" cy="-241.36891835755432"></circle>
+    <circle r="10" style="fill:#be6700" cx="216" cy="2.005842805428756"></circle>
+    <circle r="7" style="fill:#66ccff" cx="352" cy="-157.86168525449295"></circle>
+    <circle r="16" style="fill:#0d004c" cx="1072" cy="-41.78699281984507"></circle>
+    <circle r="10" style="fill:#110000" cx="1257" cy="-297.93365615565597"></circle>
+    <circle r="5" style="fill:#66ccff" cx="242" cy="-188.09143832964457"></circle>
+    <circle r="9" style="fill:#cdcaa2" cx="91" cy="60.82595034064366"></circle>
+    <circle r="6" style="fill:#110000" cx="594" cy="-277.36433964290984"></circle>
+    <circle r="21" style="fill:#be6700" cx="865" cy="-117.28823521663367"></circle>
+    <circle r="12" style="fill:#c16100" cx="1194" cy="-65.10372069256971"></circle>
+    <circle r="15" style="fill:#66ccff" cx="438" cy="24.10347159337755"></circle>
+    <circle r="25" style="fill:#be6700" cx="1276" cy="-91.92639435949911"></circle>
+    <circle r="7" style="fill:#0d004c" cx="1146" cy="-71.65355136782432"></circle>
+    <circle r="23" style="fill:#110000" cx="19" cy="130.8924018641619"></circle>
+    <circle r="19" style="fill:#be6700" cx="606" cy="-259.02101304389"></circle>
+    <circle r="7" style="fill:#b1a89e" cx="792" cy="-226.5769313044998"></circle>
+    <circle r="11" style="fill:#be6700" cx="842" cy="-182.70855452657088"></circle>
+    <circle r="12" style="fill:#c16100" cx="632" cy="-41.60109088166121"></circle>
+    <circle r="6" style="fill:#b1a89e" cx="1277" cy="-119.03045174213526"></circle>
+    <circle r="14" style="fill:#b1a89e" cx="130" cy="231.44908784624624"></circle>
+    <circle r="18" style="fill:#cdcaa2" cx="266" cy="23.348416802259862"></circle>
+    <circle r="9" style="fill:#cdcaa2" cx="797" cy="-275.4128638440757"></circle>
+    <circle r="26" style="fill:#ffffff" cx="956" cy="-329.57493259415503"></circle>
+    <circle r="8" style="fill:#cdcaa2" cx="1268" cy="-58.090987567126035"></circle>
+    <circle r="10" style="fill:#66ccff" cx="1270" cy="-310.3003323577276"></circle>
+    <circle r="8" style="fill:#cdcaa2" cx="107" cy="136.31168725946407"></circle>
+    <circle r="25" style="fill:#cdcaa2" cx="350" cy="21.895178571873203"></circle>
+    <circle r="13" style="fill:#cdcaa2" cx="992" cy="-270.48499132981624"></circle>
+    <circle r="14" style="fill:#be6700" cx="18" cy="106.07410989021264"></circle>
+    <circle r="14" style="fill:#0d004c" cx="340" cy="-215.2544288736916"></circle>
+    <circle r="22" style="fill:#b1a89e" cx="179" cy="111.96347471236447"></circle>
+    <circle r="17" style="fill:#cdcaa2" cx="107" cy="124.31168725946407"></circle>
+    <circle r="11" style="fill:#be6700" cx="1080" cy="-440.7745753776836"></circle>
+    <circle r="22" style="fill:#0d004c" cx="397" cy="13.158278810717434"></circle>
+    <circle r="4" style="fill:#ffffff" cx="132" cy="-144.57887890630934"></circle>
+    <circle r="6" style="fill:#b1a89e" cx="618" cy="63.374408562030226"></circle>
+    <circle r="11" style="fill:#c16100" cx="212" cy="15.488704667449156"></circle>
+    <circle r="24" style="fill:#0d004c" cx="390" cy="70.52125013464934"></circle>
+    <circle r="20" style="fill:#66ccff" cx="422" cy="16.046525392653166"></circle>
+    <circle r="17" style="fill:#0d004c" cx="611" cy="-330.11246735376665"></circle>
+    <circle r="26" style="fill:#be6700" cx="863" cy="-148.9807599817857"></circle>
+    <circle r="19" style="fill:#be6700" cx="152" cy="34.68175780438139"></circle>
+    <circle r="20" style="fill:#110000" cx="768" cy="-405.4895552043448"></circle>
+    <circle r="7" style="fill:#b1a89e" cx="807" cy="-300.06911026694434"></circle>
+    <circle r="11" style="fill:#b1a89e" cx="475" cy="-137.66843450206306"></circle>
+    <circle r="21" style="fill:#66ccff" cx="645" cy="-359.305616806427"></circle>
+    <circle r="10" style="fill:#be6700" cx="1260" cy="-156.25029335480178"></circle>
+    <circle r="13" style="fill:#0d004c" cx="969" cy="-62.36901716482714"></circle>
+    <circle r="20" style="fill:#110000" cx="336" cy="-164.68246683327936"></circle>
+    <circle r="20" style="fill:#be6700" cx="446" cy="-162.3007432208816"></circle>
+    <circle r="12" style="fill:#110000" cx="665" cy="-198.36178669425908"></circle>
+    <circle r="24" style="fill:#be6700" cx="990" cy="-313.2169201144253"></circle>
+    <circle r="17" style="fill:#0d004c" cx="698" cy="-177.79498079923883"></circle>
+    <circle r="25" style="fill:#ffffff" cx="568" cy="-171.4191816208364"></circle>
+    <circle r="21" style="fill:#be6700" cx="1244" cy="-165.55277194957955"></circle>
+    <circle r="17" style="fill:#be6700" cx="993" cy="-18.618824330701955"></circle>
+    <circle r="9" style="fill:#cdcaa2" cx="953" cy="-375.15744903788004"></circle>
+    <circle r="17" style="fill:#110000" cx="436" cy="-34.28861319383532"></circle>
+    <circle r="17" style="fill:#ffffff" cx="1148" cy="-61.88516300827166"></circle>
+    <circle r="4" style="fill:#c16100" cx="234" cy="115.3738306061648"></circle>
+    <circle r="16" style="fill:#be6700" cx="947" cy="-93.31852471988714"></circle>
+    <circle r="8" style="fill:#c16100" cx="906" cy="-366.4395307363062"></circle>
+    <circle r="5" style="fill:#c16100" cx="1040" cy="-253.76155621353416"></circle>
+    <circle r="7" style="fill:#be6700" cx="1148" cy="-30.88516300827166"></circle>
+    <circle r="9" style="fill:#66ccff" cx="1325" cy="-60.93170232558873"></circle>
+    <circle r="7" style="fill:#cdcaa2" cx="1177" cy="-251.1989245620615"></circle>
+    <circle r="13" style="fill:#be6700" cx="380" cy="142.97155430786245"></circle>
+    <circle r="25" style="fill:#cdcaa2" cx="51" cy="111.73858097101095"></circle>
+    <circle r="10" style="fill:#be6700" cx="382" cy="-172.7257136562273"></circle>
+    <circle r="16" style="fill:#b1a89e" cx="424" cy="-178.58151001914428"></circle>
+    <circle r="25" style="fill:#66ccff" cx="608" cy="-251.45867156880558"></circle>
+    <circle r="23" style="fill:#be6700" cx="459" cy="-302.11709445218287"></circle>
+    <circle r="22" style="fill:#ffffff" cx="1289" cy="-19.272823157387393"></circle>
+    <circle r="4" style="fill:#110000" cx="775" cy="-162.69475426307383"></circle>
+    <circle r="9" style="fill:#be6700" cx="1071" cy="-165.66302711589447"></circle>
+    <circle r="15" style="fill:#be6700" cx="1201" cy="-327.8801777636563"></circle>
+    <circle r="8" style="fill:#cdcaa2" cx="860" cy="-301.51820846801706"></circle>
+    <circle r="17" style="fill:#b1a89e" cx="922" cy="-334.7648284926387"></circle>
+    <circle r="12" style="fill:#cdcaa2" cx="217" cy="-169.60768827215747"></circle>
+    <circle r="12" style="fill:#110000" cx="742" cy="9.085148978734196"></circle>
+    <circle r="5" style="fill:#b1a89e" cx="906" cy="0.5604692636937898"></circle>
+    <circle r="11" style="fill:#be6700" cx="627" cy="-179.54604766896068"></circle>
+    <circle r="9" style="fill:#66ccff" cx="856" cy="-353.89895680031634"></circle>
+    <circle r="16" style="fill:#ffffff" cx="1263" cy="-34.566177551574356"></circle>
+    <circle r="16" style="fill:#b1a89e" cx="865" cy="0.7117647833663341"></circle>
+    <circle r="11" style="fill:#b1a89e" cx="12" cy="417.9317329152161"></circle>
+    <circle r="10" style="fill:#c16100" cx="1334" cy="-197.83088829365602"></circle>
+    <circle r="24" style="fill:#be6700" cx="116" cy="136.58421746202646"></circle>
+    <circle r="4" style="fill:#b1a89e" cx="296" cy="133.15386616696526"></circle>
+    <circle r="20" style="fill:#c16100" cx="1334" cy="-53.83088829365602"></circle>
+    <circle r="21" style="fill:#ffffff" cx="898" cy="-270.2614366088218"></circle>
+    <circle r="26" style="fill:#be6700" cx="1186" cy="-75.21074763436161"></circle>
+    <circle r="8" style="fill:#110000" cx="41" cy="412.72903674022376"></circle>
+    <circle r="18" style="fill:#110000" cx="1305" cy="-173.91144677109298"></circle>
+    <circle r="26" style="fill:#c16100" cx="915" cy="7.247484186079873"></circle>
+    <circle r="18" style="fill:#0d004c" cx="1237" cy="-470.80322969866893"></circle>
+    <circle r="16" style="fill:#66ccff" cx="949" cy="-95.59875529247984"></circle>
+    <circle r="16" style="fill:#66ccff" cx="1237" cy="-85.80322969866893"></circle>
+    <circle r="4" style="fill:#ffffff" cx="111" cy="122.43667251514876"></circle>
+    <circle r="15" style="fill:#be6700" cx="21" cy="277.5983919130945"></circle>
+    <circle r="11" style="fill:#be6700" cx="1100" cy="-333.2118775609374"></circle>
+    <circle r="25" style="fill:#c16100" cx="653" cy="-194.94297796625858"></circle>
+    <circle r="15" style="fill:#110000" cx="233" cy="-84.05730667365344"></circle>
+    <circle r="19" style="fill:#cdcaa2" cx="1120" cy="-111.60526199138837"></circle>
+    <circle r="8" style="fill:#be6700" cx="72" cy="-60.066319482974336"></circle>
+    <circle r="5" style="fill:#0d004c" cx="159" cy="37.701296329039224"></circle>
+    <circle r="5" style="fill:#cdcaa2" cx="80" cy="39.938723070513674"></circle>
+    <circle r="24" style="fill:#be6700" cx="1145" cy="-11.537593925154965"></circle>
+    <circle r="4" style="fill:#b1a89e" cx="701" cy="40.635343236172275"></circle>
+    <circle r="26" style="fill:#66ccff" cx="20" cy="490.07915244370065"></circle>
+    <circle r="22" style="fill:#cdcaa2" cx="1331" cy="-144.53183546457672"></circle>
+    <circle r="26" style="fill:#be6700" cx="940" cy="0.6669643739817275"></circle>
+    <circle r="4" style="fill:#0d004c" cx="976" cy="-193.32511866558468"></circle>
+    <circle r="21" style="fill:#0d004c" cx="1041" cy="-224.88921527395337"></circle>
+    <circle r="22" style="fill:#be6700" cx="1196" cy="-244.32602909951072"></circle>
+    <circle r="23" style="fill:#0d004c" cx="1073" cy="-59.910842938041014"></circle>
+    <circle r="7" style="fill:#be6700" cx="140" cy="194.60538206839215"></circle>
+    <circle r="7" style="fill:#be6700" cx="577" cy="-364.5073699182054"></circle>
+    <circle r="12" style="fill:#be6700" cx="1167" cy="-177.06556237770724"></circle>
+    <circle r="5" style="fill:#66ccff" cx="321" cy="22.383849547867158"></circle>
+    <circle r="14" style="fill:#b1a89e" cx="6" cy="315.00194760180966"></circle>
+    <circle r="12" style="fill:#b1a89e" cx="283" cy="-222.88043296646458"></circle>
+    <circle r="15" style="fill:#66ccff" cx="384" cy="-226.41934051775127"></circle>
+    <circle r="23" style="fill:#ffffff" cx="1231" cy="-402.15738121974834"></circle>
+    <circle r="17" style="fill:#be6700" cx="1095" cy="-356.6067319031414"></circle>
+    <circle r="4" style="fill:#b1a89e" cx="580" cy="-143.19620072108603"></circle>
+    <circle r="16" style="fill:#cdcaa2" cx="926" cy="-422.3398477548924"></circle>
+    <circle r="15" style="fill:#c16100" cx="118" cy="67.31357683406486"></circle>
+    <circle r="5" style="fill:#be6700" cx="380" cy="-313.02844569213755"></circle>
+    <circle r="10" style="fill:#c16100" cx="495" cy="8.853294572168124"></circle>
+    <circle r="9" cx="254" cy="-5.51991417461511"></circle>
+    <circle r="18" cx="497" cy="-121.68230793636451"></circle>
+    <circle r="13" cx="747" cy="-314.806924502804"></circle>
+    <circle r="26" cx="1124" cy="-19.07880702820421"></circle>
+    <circle r="24" cx="1125" cy="-242.19692997253117"></circle>
+    <circle r="4" cx="169" cy="-120.40055856809568"></circle>
+    <circle r="14" cx="127" cy="-16.449699488021565"></circle>
+    <circle r="20" cx="932" cy="-71.19773604684042"></circle>
+    <circle r="11" cx="1261" cy="-357.355671577022"></circle>
+    <circle r="16" cx="325" cy="1.7388843497273"></circle>
+    <circle r="23" cx="260" cy="41.37887315965281"></circle>
+    <circle r="6" cx="875" cy="-241.81502492464585"></circle>
+    <circle r="10" cx="721" cy="-63.10130941508794"></circle>
+    <circle r="18" cx="1138" cy="-398.7230449906158"></circle>
+    <circle r="16" cx="426" cy="31.793410040753656"></circle>
+    <circle r="5" cx="323" cy="4.558820546769766"></circle>
+    <circle r="17" cx="898" cy="-181.26143660882178"></circle>
+    <circle r="18" cx="981" cy="-273.00385924384227"></circle>
+    <circle r="25" cx="1290" cy="-139.37583149302054"></circle>
+    <circle r="21" cx="907" cy="-220.58606052738412"></circle>
+    <circle r="25" cx="138" cy="37.51662715953364"></circle>
+    <circle r="4" cx="85" cy="169.88600049949537"></circle>
+    <circle r="12" cx="1016" cy="-166.66034354780209"></circle>
+    <circle r="21" cx="137" cy="165.48266226949602"></circle>
+    <circle r="10" cx="1287" cy="-308.0665665287672" style="fill:#ffffff"></circle>
+    <circle r="4" cx="952" cy="-267.01799575248106"></circle>
+    <circle r="11" cx="580" cy="-245.19620072108603"></circle>
+    <circle r="13" cx="30" cy="37.221529418697116"></circle>
+    <circle r="15" cx="78" cy="70.30166831776182"></circle>
+    <circle r="21" cx="321" cy="48.38384954786716"></circle>
+    <circle r="11" cx="568" cy="-2.4191816208364116"></circle>
+    <circle r="7" cx="829" cy="-228.6417502335487"></circle>
+    <circle r="11" cx="614" cy="-145.7630608608232"></circle>
+    <circle r="10" cx="1315" cy="-432.92541537538784"></circle>
+    <circle r="17" cx="1275" cy="-124.82225539521392"></circle>
+    <circle r="20" cx="867" cy="30.404999653618916"></circle>
+    <circle r="21" cx="1269" cy="-376.19570120450953"></circle>
+    <circle r="16" cx="1128" cy="-199.55066984109624"></circle>
+    <circle r="21" cx="794" cy="-248.9119358758761"></circle>
+    <circle r="14" cx="265" cy="-26.151284142476243"></circle>
+    <circle r="4" cx="1142" cy="-433.1891129850693"></circle>
+    <circle r="7" cx="1090" cy="-446.99881669035426"></circle>
+    <circle r="15" cx="722" cy="-382.2854109582697"></circle>
+    <circle r="5" cx="444" cy="-117.70375685803822"></circle>
+    <circle r="20" cx="63" cy="64.67055420149768"></circle>
+    <circle r="26" cx="585" cy="13.663627109645859"></circle>
+    <circle r="12" cx="230" cy="93.66404668801817"></circle>
+    <circle r="22" cx="883" cy="-88.02394559848346"></circle>
+    <circle r="7" cx="1343" cy="-304.72402813927283"></circle>
+    <circle r="16" cx="86" cy="324.33242440168885"></circle>
+    <circle r="9" cx="1076" cy="-335.2817019285344"></circle>
+    <circle r="20" cx="538" cy="-11.211487241940858"></circle>
+    <circle r="18" cx="170" cy="-16.184214187098064"></circle>
+    <circle r="23" cx="42" cy="310.52817722650104"></circle>
+    <circle r="15" cx="482" cy="-263.6116346645422"></circle>
+    <circle r="18" cx="415" cy="-3.731667262722567"></circle>
+    <circle r="10" cx="27" cy="382.2164868652092"></circle>
+    <circle r="10" cx="564" cy="46.519544845497194"></circle>
+    <circle r="22" cx="1123" cy="-245.9605789455062"></circle>
+    <circle r="7" cx="438" cy="63.10347159337755"></circle>
+    <circle r="7" cx="155" cy="257.08566392003866"></circle>
+    <circle r="8" cx="200" cy="-35.77148042600527"></circle>
+    <circle r="13" cx="189" cy="-194.25728351009934"></circle>
+    <circle r="10" cx="91" cy="-35.17404965935634"></circle>
+    <circle r="13" cx="1275" cy="-460.8222553952139"></circle>
+    <circle r="10" cx="981" cy="-279.00385924384227"></circle>
+    <circle r="9" cx="937" cy="-159.90843459698795"></circle>
+    <circle r="17" cx="558" cy="-372.0598080066362"></circle>
+    <circle r="14" cx="1146" cy="-105.65355136782432"></circle>
+    <circle r="9" cx="748" cy="-110.98462251210469"></circle>
+    <circle r="24" cx="317" cy="118.04944180606094"></circle>
+    <circle r="19" cx="201" cy="-51.433971785068024"></circle>
+    <circle r="20" cx="953" cy="-171.15744903788004"></circle>
+    <circle r="4" cx="1084" cy="-337.2656267396836"></circle>
+    <circle r="9" cx="215" cy="137.6222209051699"></circle>
+    <circle r="11" cx="796" cy="-46.24609766756623"></circle>
+    <circle r="21" cx="97" cy="260.34460770702583"></circle>
+    <circle r="11" cx="638" cy="-231.85617967290557"></circle>
+    <circle r="24" cx="1243" cy="-242.44595309208034"></circle>
+    <circle r="5" cx="1132" cy="-38.02086233965167"></circle>
+    <circle r="18" cx="369" cy="16.87336131702989"></circle>
+    <circle r="20" cx="566" cy="-50.95064765305813"></circle>
+    <circle r="20" cx="590" cy="-266.4668413490475"></circle>
+    <circle r="23" cx="503" cy="-183.27627796989168"></circle>
+    <circle r="23" cx="143" cy="148.7891088944267"></circle>
+    <circle r="25" cx="703" cy="-31.743087909092537"></circle>
+    <circle r="6" cx="43" cy="413.40263908828234"></circle>
+    <circle r="12" cx="596" cy="-98.81082491083566"></circle>
+    <circle r="15" cx="969" cy="-201.36901716482714"></circle>
+    <circle r="22" cx="1041" cy="6.1107847260466315"></circle>
+    <circle r="13" cx="295" cy="15.603373337545804"></circle>
+    <circle r="11" cx="956" cy="-334.57493259415503"></circle>
+    <circle r="14" cx="629" cy="-158.9690710906466"></circle>
+    <circle r="5" cx="238" cy="175.1224336207058"></circle>
+    <circle r="25" cx="681" cy="-129.51983719150485"></circle>
+    <circle r="16" cx="273" cy="71.89811262904675"></circle>
+    <circle r="6" cx="659" cy="-384.15788804076135"></circle>
+    <circle r="7" cx="156" cy="-159.76854636883172"></circle>
+    <circle r="7" cx="87" cy="-14.203190876383474"></circle>
+    <circle r="24" cx="421" cy="-63.638339839977334"></circle>
+    <circle r="18" cx="836" cy="-183.75863933055064"></circle>
+    <circle r="7" cx="39" cy="201.37188300435525"></circle>
+    <circle r="15" cx="824" cy="-251.83818309955984"></circle>
+    <circle r="14" cx="596" cy="-316.81082491083566"></circle>
+    <circle r="8" cx="1278" cy="-94.13442767084325"></circle>
+    <circle r="7" cx="429" cy="19.861271182829682"></circle>
+    <circle r="14" cx="914" cy="-322.6072678583405"></circle>
+    <circle r="19" cx="1076" cy="-240.2817019285344"></circle>
+    <circle r="10" cx="1144" cy="-223.42153516535382"></circle>
+    <circle r="26" cx="736" cy="-2.8363938752434024"></circle>
+    <circle r="6" cx="851" cy="-114.12081021553035"></circle>
+    <circle r="4" cx="352" cy="79.13831474550705"></circle>
+    <circle r="6" cx="506" cy="-281.066146950395"></circle>
+    <circle r="13" cx="884" cy="5.825710025373155"></circle>
+    <circle r="18" cx="191" cy="25.344501030366132"></circle>
+    <circle r="7" cx="1234" cy="-476.4806979931117"></circle>
+    <circle r="13" cx="13" cy="272.29972071595216"></circle>
+    <circle r="13" cx="1036" cy="-454.2496895217498"></circle>
+    <circle r="13" cx="829" cy="-116.64175023354869"></circle>
+    <circle r="19" cx="947" cy="19.681475280112863"></circle>
+    <circle r="15" cx="310" cy="-28.98455076655489"></circle>
+    <circle r="19" cx="527" cy="-31.467499214241002"></circle>
+    <circle r="18" cx="1210" cy="-73.87185651275695"></circle>
+    <circle r="23" cx="177" cy="-86.5440461909385"></circle>
+    <circle r="15" cx="196" cy="160.9120298761959"></circle>
+    <circle r="12" cx="705" cy="-224.1204439644282"></circle>
+    <circle r="24" cx="346" cy="-122.57803172011461"></circle>
+    <circle r="13" cx="840" cy="-145.3926703297983"></circle>
+    <circle r="17" cx="52" cy="143.1592913427652"></circle>
+    <circle r="4" cx="796" cy="-232.24609766756623"></circle>
+    <circle r="19" cx="1025" cy="-207.83179962600116"></circle>
+    <circle r="20" cx="583" cy="-95.88147778088944"></circle>
+    <circle r="21" cx="1095" cy="-405.6067319031414"></circle>
+    <circle r="9" cx="1009" cy="-264.74201426527804"></circle>
+    <circle r="16" cx="821" cy="-346.3536990044777"></circle>
+    <circle r="21" cx="911" cy="27.8294314132836" style="fill:#be6700"></circle>
+    <circle r="10" cx="1004" cy="-82.08215576896487"></circle>
+    <circle r="4" cx="91" cy="-49.17404965935634" style="fill:#110000"></circle>
+    <circle r="4" cx="755" cy="-247.22189652122825"></circle>
+    <circle r="10" cx="1296" cy="-406.9922095927616"></circle>
+    <circle r="17" cx="110" cy="-8.36124469123149"></circle>
+    <circle r="12" cx="103" cy="-77.62753903977944"></circle>
+    <circle r="8" cx="444" cy="-104.70375685803822"></circle>
+    <circle r="8" cx="264" cy="68.35090640709711"></circle>
+    <circle r="23" cx="809" cy="42.60210431236078"></circle>
+    <circle r="18" cx="794" cy="-189.9119358758761"></circle>
+    <circle r="23" cx="938" cy="-74.05011913537317"></circle>
+    <circle r="18" cx="618" cy="-135.62559143796977"></circle>
+    <circle r="9" cx="565" cy="-51.71575945366715"></circle>
+    <circle r="26" cx="471" cy="-171.54513611932828"></circle>
+    <circle r="17" cx="287" cy="-111.7447336350848"></circle>
+    <circle r="12" cx="971" cy="-242.64289198791892"></circle>
+    <circle r="22" cx="739" cy="-211.37671696121959"></circle>
+    <circle r="11" cx="1062" cy="-323.54209858912895"></circle>
+    <circle r="10" cx="1309" cy="-41.31796351422622"></circle>
+    <circle r="17" cx="15" cy="266.2917441052906"></circle>
+    <circle r="26" cx="400" cy="-34.84169511259881"></circle>
+    <circle r="19" cx="449" cy="-304.19122192222835"></circle>
+    <circle r="12" cx="347" cy="139.03862243764354"></circle>
+    <circle r="20" cx="8" cy="556.7893559402196"></circle>
+    <circle r="4" cx="1021" cy="-229.31242753851802"></circle>
+    <circle r="15" cx="619" cy="-308.8403517792432"></circle>
+    <circle r="18" cx="574" cy="-346.81494832167823"></circle>
+    <circle r="25" cx="1154" cy="-370.57758460479886"></circle>
+    <circle r="21" cx="181" cy="56.48757905988407"></circle>
+    <circle r="6" cx="1319" cy="-233.32884542626198"></circle>
+    <circle r="12" cx="194" cy="143.27439302043229"></circle>
+    <circle r="8" cx="189" cy="-210.25728351009934"></circle>
+    <circle r="14" cx="868" cy="-240.74811764534445"></circle>
+    <circle r="16" cx="204" cy="182.59815159782409"></circle>
+    <circle r="22" cx="903" cy="-65.99896899862313"></circle>
+    <circle r="4" cx="1003" cy="-87.94978979673385"></circle>
+    <circle r="20" cx="404" cy="-28.163390018886616"></circle>
+    <circle r="5" cx="168" cy="131.38774785331418"></circle>
+    <circle r="19" cx="1241" cy="-312.23205732582403"></circle>
+    <circle r="9" cx="90" cy="75.29369170710027"></circle>
+    <circle r="20" cx="209" cy="-29.61820995736366"></circle>
+    <circle r="5" cx="902" cy="-312.8517897678953"></circle>
+    <circle r="11" cx="868" cy="-61.74811764534445"></circle>
+    <circle r="6" cx="1085" cy="-76.38810645526996"></circle>
+    <circle r="7" cx="1136" cy="-364.48939630742996"></circle>
+    <circle r="19" cx="643" cy="-107.89310330052592"></circle>
+    <circle r="14" cx="597" cy="-94.03350600597616"></circle>
+    <circle r="9" cx="555" cy="78.65625433203627"></circle>
+    <circle r="17" cx="762" cy="-370.447751886212"></circle>
+    <circle r="18" cx="680" cy="-23.32464356028504"></circle>
+    <circle r="24" cx="723" cy="-367.46925768954566"></circle>
+    <circle r="12" cx="927" cy="-209.48321446297325"></circle>
+    <circle r="19" cx="968" cy="-117.23186770283144"></circle>
+    <circle r="16" cx="823" cy="-96.67688466790912"></circle>
+    <circle r="19" cx="926" cy="-323.3398477548924"></circle>
+    <circle r="11" cx="123" cy="252.8011990286269"></circle>
+    <circle r="6" cx="1079" cy="-51.65152836365803"></circle>
+    <circle r="11" cx="290" cy="-224.12598603449248"></circle>
+    <circle r="17" cx="1303" cy="-202.70772089965044"></circle>
+    <circle r="22" cx="1269" cy="-241.19570120450953"></circle>
+    <circle r="23" cx="1284" cy="-91.75657982531982"></circle>
+    <circle r="16" cx="210" cy="177.74775904338867"></circle>
+    <circle r="13" cx="466" cy="22.872478639753126"></circle>
+    <circle r="21" cx="295" cy="60.603373337545804"></circle>
+    <circle r="10" cx="719" cy="-157.73233906077746"></circle>
+    <circle r="10" cx="499" cy="-33.21575942501272"></circle>
+    <circle r="5" cx="1156" cy="-418.80759200797127"></circle>
+    <circle r="21" cx="1313" cy="-252.72323992974748"></circle>
+    <circle r="24" cx="652" cy="-250.7394082066561"></circle>
+    <circle r="16" cx="589" cy="-358.24151603268706"></circle>
+    <circle r="19" cx="1117" cy="-404.24899201792437"></circle>
+    <circle r="22" cx="550" cy="-89.14166287434387"></circle>
+    <circle r="9" cx="464" cy="-340.5562119111605"></circle>
+    <circle r="24" cx="713" cy="-35.61923833912488"></circle>
+    <circle r="16" cx="124" cy="94.72565272996405"></circle>
+    <circle r="17" cx="722" cy="-268.2854109582697"></circle>
+    <circle r="16" cx="1261" cy="-358.355671577022"></circle>
+    <circle r="24" cx="907" cy="-282.5860605273841"></circle>
+    <circle r="21" cx="138" cy="9.516627159533641"></circle>
+    <circle r="7" cx="396" cy="-25.506716617906363"></circle>
+    <circle r="22" cx="1299" cy="-405.2993293645934"></circle>
+    <circle r="10" cx="1029" cy="-213.34914883752242"></circle>
+    <circle r="10" cx="82" cy="114.65882205363027"></circle>
+    <circle r="12" cx="334" cy="9.110545922998767"></circle>
+    <circle r="8" cx="263" cy="-78.14499719227535"></circle>
+    <circle r="16" cx="657" cy="-381.7541514316259"></circle>
+    <circle r="4" cx="922" cy="-347.7648284926387"></circle>
+    <circle r="19" cx="604" cy="-73.58190771130273"></circle>
+    <circle r="25" cx="530" cy="-287.2214988290698"></circle>
+    <circle r="16" cx="246" cy="-75.26901565796663"></circle>
+    <circle r="10" cx="1236" cy="-17.695806124563205"></circle>
+    <circle r="11" cx="29" cy="81.72464683521338"></circle>
+    <circle r="15" cx="666" cy="-335.5613798830417"></circle>
+    <circle r="20" cx="444" cy="-58.70375685803822"></circle>
+    <circle r="18" cx="491" cy="-16.068977469762444"></circle>
+    <circle r="23" cx="638" cy="-269.85617967290557"></circle>
+    <circle r="20" cx="311" cy="26.587657423607425"></circle>
+    <circle r="19" cx="168" cy="-103.61225214668582"></circle>
+    <circle r="24" cx="1" cy="910"></circle>
+    <circle r="23" cx="68" cy="115.52598930942088"></circle>
+    <circle r="11" cx="205" cy="110.94861855711133"></circle>
+    <circle r="11" cx="898" cy="-110.26143660882178"></circle>
+    <circle r="22" cx="66" cy="-42.50866421971591"></circle>
+    <circle r="22" cx="984" cy="-156.4094450311536"></circle>
+    <circle r="25" cx="513" cy="-291.8911112706289"></circle>
+    <circle r="19" cx="1324" cy="-161.83141599229202"></circle>
+    <circle r="25" cx="665" cy="-275.3617866942591"></circle>
+    <circle r="8" cx="759" cy="-191.92376997539827"></circle>
+    <circle r="17" cx="552" cy="-45.62380221365322"></circle>
+    <circle r="12" cx="510" cy="94.88794810130503"></circle>
+    <circle r="26" cx="218" cy="-35.21839850724177"></circle>
+    <circle r="12" cx="613" cy="-223.54655023074804"></circle>
+    <circle r="4" cx="671" cy="-385.5548717407363"></circle>
+    <circle r="13" cx="685" cy="32.70224408638353"></circle>
+    <circle r="4" cx="1206" cy="-96.43202418325859"></circle>
+    <circle r="23" cx="912" cy="-62.31629459380895"></circle>
+    <circle r="20" cx="424" cy="13.418489980855725"></circle>
+    <circle r="12" cx="904" cy="-395.14598533033507"></circle>
+    <circle r="22" cx="871" cy="-86.20641335751895"></circle>
+    <circle r="10" cx="658" cy="-138.95617313162086"></circle>
+    <circle r="16" cx="1256" cy="-185.8279424675119"></circle>
+    <circle r="12" cx="1027" cy="-433.0907261059285"></circle>
+    <circle r="15" cx="308" cy="-69.12481157002105"></circle>
+    <circle r="14" cx="765" cy="-88.96967492369845"></circle>
+    <circle r="15" cx="1054" cy="-266.53771390083455"></circle>
+    <circle r="15" cx="1317" cy="-37.127283563393576"></circle>
+    <circle r="5" cx="304" cy="156.61154311778796"></circle>
+    <circle r="10" cx="333" cy="-295.49116519644826"></circle>
+    <circle r="21" cx="462" cy="39.017565404975585"></circle>
+    <circle r="22" cx="243" cy="20.36081144201546"></circle>
+    <circle r="10" cx="1012" cy="-376.13636163698845"></circle>
+    <circle r="12" cx="91" cy="198.82595034064366"></circle>
+    <circle r="11" cx="316" cy="-73.53087619506778"></circle>
+    <circle r="20" cx="105" cy="131.8179737299821"></circle>
+    <circle r="13" cx="835" cy="-317.5996575735203"></circle>
+    <circle r="16" cx="169" cy="-2.4005585680956756"></circle>
+    <circle r="6" cx="522" cy="-244.20124327457404"></circle>
+    <circle r="26" cx="479" cy="-53.78231308099225"></circle>
+    <circle r="22" cx="800" cy="-44.911909799192244"></circle>
+    <circle r="13" cx="173" cy="220.4921829664787"></circle>
+    <circle r="24" cx="789" cy="-73.07283490387226"></circle>
+    <circle r="18" cx="32" cy="47.64892656703262"></circle>
+    <circle r="16" cx="442" cy="60.895924711966586"></circle>
+    <circle r="22" cx="1337" cy="-35.12926934494237"></circle>
+    <circle r="18" cx="721" cy="-356.10130941508794"></circle>
+    <circle r="15" cx="238" cy="-41.877566379294194"></circle>
+    <circle r="14" cx="1340" cy="-310.4269816297706"></circle>
+    <circle r="8" cx="1314" cy="-286.82436611821925"></circle>
+    <circle r="5" cx="1109" cy="-231.2942404346528"></circle>
+    <circle r="5" cx="139" cy="13.557567093138573"></circle>
+    <circle r="9" cx="564" cy="-198.4804551545028"></circle>
+    <circle r="6" cx="884" cy="-288.17428997462684"></circle>
+    <circle r="5" cx="339" cy="78.13682101784843"></circle>
+    <circle r="8" cx="942" cy="-176.61535080592182"></circle>
+    <circle r="12" cx="284" cy="104.65103306575713"></circle>
+    <circle r="18" cx="34" cy="9.596203996014367"></circle>
+    <circle r="22" cx="989" cy="-311.0826813539936"></circle>
+    <circle r="23" cx="1011" cy="-74.0050425534879"></circle>
+    <circle r="5" cx="732" cy="-333.1125270039946"></circle>
+    <circle r="26" cx="491" cy="99.93102253023756"></circle>
+    <circle r="14" cx="22" cy="473.4191734918809"></circle>
+    <circle r="11" cx="726" cy="-163.01927604124148"></circle>
+    <circle r="11" cx="1336" cy="-486.0298834501882"></circle>
+    <circle r="4" cx="1153" cy="-146.46243137509703"></circle>
+    <circle r="26" cx="1146" cy="-66.65355136782432"></circle>
+    <circle r="19" cx="1259" cy="-119.14483146586201"></circle>
+    <circle r="24" cx="1203" cy="-237.10119152869322"></circle>
+    <circle r="7" cx="126" cy="138.60033951490414"></circle>
+    <circle r="4" cx="703" cy="-91.74308790909254"></circle>
+    <circle r="9" cx="508" cy="-353.59012886120865"></circle>
+    <circle r="12" cx="380" cy="-293.02844569213755"></circle>
+    <circle r="6" cx="1159" cy="-333.15185805504893"></circle>
+    <circle r="15" cx="782" cy="-243.88911644626148"></circle>
+    <circle r="15" cx="1240" cy="-250.12498013974187"></circle>
+    <circle r="23" cx="17" cy="349.66641868260785"></circle>
+    <circle r="9" cx="1198" cy="-324.54796606366074"></circle>
+    <circle r="14" cx="420" cy="67.67754435679512"></circle>
+    <circle r="12" cx="1154" cy="-458.57758460479886"></circle>
+    <circle r="10" cx="269" cy="-106.14127255534743"></circle>
+    <circle r="18" cx="449" cy="98.80877807777165"></circle>
+    <circle r="7" cx="157" cy="136.38270159226863"></circle>
+    <circle r="24" cx="713" cy="-351.6192383391249"></circle>
+    <circle r="19" cx="1232" cy="-152.2652409432079"></circle>
+    <circle r="13" cx="958" cy="-76.8525277675858"></circle>
+    <circle r="18" cx="113" cy="154.06465872944523"></circle>
+    <circle r="15" cx="253" cy="-12.995932263801478"></circle>
+    <circle r="14" cx="1024" cy="4.297853134065235"></circle>
+    <circle r="7" cx="364" cy="46.68552096745668"></circle>
+    <circle r="6" cx="803" cy="-189.40908782995746"></circle>
+    <circle r="17" cx="504" cy="-328.54008985828284"></circle>
+    <circle r="12" cx="272" cy="-94.6144400637661"></circle>
+    <circle r="14" cx="626" cy="-133.3340296795858"></circle>
+    <circle r="10" cx="724" cy="-214.6528503133028"></circle>
+    <circle r="17" cx="673" cy="-325.95019715796536"></circle>
+    <circle r="22" cx="305" cy="-21.82467810232322"></circle>
+    <circle r="12" cx="1276" cy="-337.9263943594991"></circle>
+    <circle r="24" cx="781" cy="-149.71914938258146"></circle>
+    <circle r="15" cx="467" cy="7.587742749065342"></circle>
+    <circle r="5" cx="463" cy="-231.26963306829884"></circle>
+    <circle r="20" cx="248" cy="-23.344561956629377"></circle>
+    <circle r="6" cx="529" cy="46.02935911544819"></circle>
+    <circle r="23" cx="916" cy="-64.89760511522945"></circle>
+    <circle r="16" cx="1113" cy="-441.7724740462693"></circle>
+    <circle r="7" cx="252" cy="167.5301248283107"></circle>
+    <circle r="4" cx="1078" cy="-443.528367258736"></circle>
+    <circle r="16" cx="808" cy="-104.23360470548005"></circle>
+    <circle r="12" cx="1028" cy="-66.22000031773041"></circle>
+    <circle r="6" cx="1257" cy="-278.93365615565597"></circle>
+    <circle r="19" cx="995" cy="-284.88608647749163"></circle>
+    <circle r="14" cx="1064" cy="5.207987429072887"></circle>
+    <circle r="25" cx="894" cy="-436.66844793583914"></circle>
+    <circle r="7" cx="282" cy="-256.41024046790926"></circle>
+    <circle r="16" cx="881" cy="-287.72274537386204"></circle>
+    <circle r="26" cx="109" cy="207.85181617935166"></circle>
+    <circle r="5" cx="91" cy="176.82595034064366"></circle>
+    <circle r="25" cx="486" cy="-210.70940324457808"></circle>
+    <circle r="13" cx="681" cy="-16.51983719150485"></circle>
+    <circle r="19" cx="213" cy="-5.136375272652913"></circle>
+    <circle r="5" cx="1019" cy="-359.0519779606767"></circle>
+    <circle r="25" cx="171" cy="-212.96327355903202"></circle>
+    <circle r="12" cx="1189" cy="-261.54631642456286"></circle>
+    <circle r="8" cx="740" cy="-262.5563373295538"></circle>
+    <circle r="4" cx="676" cy="-36.54098794128265"></circle>
+    <circle r="14" cx="350" cy="117.8951785718732"></circle>
+    <circle r="24" cx="326" cy="-116.66919352006266"></circle>
+    <circle r="9" cx="1151" cy="-291.23182499401173"></circle>
+    <circle r="23" cx="1056" cy="-331.78952296608986" style="fill:#be6700"></circle>
+    <circle r="20" cx="468" cy="-323.69638408042863"></circle>
+    <circle r="17" cx="461" cy="-278.69461380604525"></circle>
+    <circle r="16" cx="58" cy="286.65443214862"></circle>
+    <circle r="24" cx="804" cy="-217.5744011582551"></circle>
+    <circle r="5" cx="1328" cy="-367.23210782598403"></circle>
+    <circle r="23" cx="980" cy="-317.86838830691636"></circle>
+    <circle r="22" cx="53" cy="-20.37086595936387"></circle>
+    <circle r="16" cx="853" cy="-250.43261609143838"></circle>
+    <circle r="12" cx="663" cy="-45.96169831303689"></circle>
+    <circle r="17" cx="1077" cy="-439.4050918511481"></circle>
+    <circle r="6" cx="217" cy="-168.60768827215747"></circle>
+    <circle r="15" cx="486" cy="-58.709403244578084"></circle>
+    <circle r="18" cx="554" cy="-221.10419782640827"></circle>
+    <circle r="21" cx="1076" cy="-362.2817019285344"></circle>
+    <circle r="8" cx="170" cy="-41.184214187098064"></circle>
+    <circle r="19" cx="386" cy="136.89063589339685"></circle>
+    <circle r="20" cx="664" cy="-137.1618931393906"></circle>
+    <circle r="16" cx="1080" cy="-296.7745753776836"></circle>
+    <circle r="19" cx="252" cy="85.5301248283107"></circle>
+    <circle r="21" cx="893" cy="-124.5197862055569"></circle>
+    <circle r="25" cx="450" cy="83.51327352398778"></circle>
+    <circle r="8" cx="261" cy="185.8689714120195"></circle>
+    <circle r="13" cx="897" cy="-133.11343743792065"></circle>
+    <circle r="18" cx="739" cy="-379.3767169612196"></circle>
+    <circle r="22" cx="837" cy="-148.9174310316397"></circle>
+    <circle r="7" cx="1251" cy="-239.29810833005536"></circle>
+    <circle r="14" cx="1224" cy="-44.39990080036637"></circle>
+    <circle r="20" cx="369" cy="-4.1266386829701105"></circle>
+    <circle r="17" cx="996" cy="-375.0195161643941" style="fill:#c16100"></circle>
+    <circle r="8" cx="1342" cy="-33.62508642732985"></circle>
+    <circle r="4" cx="1341" cy="-322.5260709608425"></circle>
+    <circle r="18" cx="1021" cy="-272.312427538518"></circle>
+    <circle r="7" cx="1302" cy="-188.6057406703478"></circle>
+    <circle r="6" cx="1330" cy="-190.43200138085263"></circle>
+    <circle r="7" cx="78" cy="-62.69833168223818"></circle>
+    <circle r="4" cx="992" cy="-85.48499132981624"></circle>
+    <circle r="15" cx="251" cy="-157.9417263957779"></circle>
+    <circle r="6" cx="1115" cy="-279.01094671740054"></circle>
+    <circle r="15" cx="411" cy="-307.4451754421009"></circle>
+    <circle r="13" cx="694" cy="-198.0315922489499"></circle>
+    <circle r="15" cx="1279" cy="-366.2383222730442"></circle>
+    <circle r="13" cx="1001" cy="-261.6846614808819"></circle>
+    <circle r="26" cx="1043" cy="-164.1441659129572"></circle>
+    <circle r="17" cx="1016" cy="-150.66034354780209"></circle>
+    <circle r="5" cx="18" cy="372.07410989021264"></circle>
+    <circle r="19" cx="695" cy="-174.2228510899738"></circle>
+    <circle r="4" cx="1239" cy="-309.0178165662471"></circle>
+    <circle r="12" cx="152" cy="-4.318242195618609"></circle>
+    <circle r="21" cx="105" cy="-75.1820262700179"></circle>
+    <circle r="14" cx="113" cy="-65.93534127055477"></circle>
+    <circle r="24" cx="581" cy="16.574980545081303"></circle>
+    <circle r="17" cx="674" cy="-242.14741952848442"></circle>
+    <circle r="4" cx="539" cy="-164.45815257214258"></circle>
+    <circle r="4" cx="1239" cy="-377.0178165662471"></circle>
+    <circle r="4" cx="159" cy="14.701296329039224"></circle>
+    <circle r="12" cx="612" cy="-301.32968611377294"></circle>
+    <circle r="21" cx="1126" cy="-34.31494796531672" style="fill:#b1a89e"></circle>
+    <circle r="13" cx="805" cy="-33.7395090006969"></circle>
+    <circle r="4" cx="20" cy="124.07915244370065"></circle>
+    <circle r="26" cx="1174" cy="-119.85993014035739"></circle>
+    <circle r="23" cx="1191" cy="-146.76955890087947"></circle>
+    <circle r="9" cx="665" cy="-161.36178669425908"></circle>
+    <circle r="15" cx="191" cy="-190.65549896963387"></circle>
+    <circle r="22" cx="958" cy="7.147472232414202"></circle>
+    <circle r="8" cx="1317" cy="-90.12728356339358"></circle>
+    <circle r="19" cx="1119" cy="-305.4866114768961"></circle>
+    <circle r="25" cx="942" cy="-416.6153508059218"></circle>
+    <circle r="11" cx="1078" cy="-295.528367258736"></circle>
+    <circle r="4" cx="1231" cy="-153.15738121974834"></circle>
+    <circle r="6" cx="153" cy="-101.18925674058596"></circle>
+    <circle r="19" cx="597" cy="25.966493994023836"></circle>
+    <circle r="19" cx="332" cy="97.90832154720295"></circle>
+    <circle r="24" cx="338" cy="-106.4707732546891"></circle>
+    <circle r="7" cx="69" cy="225.58684184612707"></circle>
+    <circle r="15" cx="1111" cy="-136.5335724672252"></circle>
+    <circle r="11" cx="383" cy="-34.072979846551675"></circle>
+    <circle r="22" cx="681" cy="-74.51983719150485"></circle>
+    <circle r="6" cx="204" cy="66.59815159782409"></circle>
+    <circle r="6" cx="601" cy="-232.92051592750784"></circle>
+    <circle r="16" cx="859" cy="-244.36366599317637"></circle>
+    <circle r="7" cx="1298" cy="-218.1970349874606"></circle>
+    <circle r="24" cx="923" cy="-423.90881684510373"></circle>
+    <circle r="19" cx="280" cy="-215.4648326182014"></circle>
+    <circle r="16" cx="115" cy="237.7342613746116"></circle>
+    <circle r="21" cx="463" cy="-36.269633068298845"></circle>
+    <circle r="12" cx="491" cy="-28.068977469762444"></circle>
+    <circle r="20" cx="401" cy="-8.173353817096427"></circle>
+    <circle r="23" cx="1323" cy="-212.73105388540785" style="fill:#c16100"></circle>
+    <circle r="21" cx="553" cy="-187.8642171971893"></circle>
+    <circle r="13" cx="485" cy="97.56418952391334"></circle>
+    <circle r="16" cx="860" cy="-419.51820846801706"></circle>
+    <circle r="16" cx="121" cy="-117.02122364305114"></circle>
+    <circle r="4" cx="101" cy="1.9770393543003593"></circle>
+    <circle r="22" cx="277" cy="-148.03398313981484"></circle>
+    <circle r="4" cx="887" cy="-252.6243047770879"></circle>
+    <circle r="25" cx="173" cy="-59.50781703352129"></circle>
+    <circle r="16" cx="271" cy="138.87480263350335"></circle>
+    <circle r="18" cx="146" cy="154.03130930497457"></circle>
+    <circle r="16" cx="233" cy="84.94269332634656"></circle>
+    <circle r="7" cx="1083" cy="-86.1430339832732"></circle>
+    <circle r="17" cx="95" cy="56.11198368104942"></circle>
+    <circle r="21" cx="1199" cy="-37.658795642173914"></circle>
+    <circle r="26" cx="198" cy="-44.43650193131282"></circle>
+    <circle r="12" cx="1293" cy="-218.68437807111195"></circle>
+    <circle r="7" cx="751" cy="-339.51629463812617"></circle>
+    <circle r="15" cx="786" cy="-145.5668181313681"></circle>
+    <circle r="16" cx="618" cy="-94.62559143796977"></circle>
+    <circle r="15" cx="1182" cy="-76.7619997678795"></circle>
+    <circle r="26" cx="764" cy="-323.79592834282084"></circle>
+    <circle r="7" cx="403" cy="-266.8341971808967"></circle>
+    <circle r="25" cx="955" cy="-243.43591715274624"></circle>
+    <circle r="12" cx="773" cy="-14.351526056226703"></circle>
+    <circle r="4" cx="1181" cy="-372.6495755189827"></circle>
+    <circle r="25" cx="1320" cy="-254.42951177601537"></circle>
+    <circle r="12" cx="1291" cy="-206.47876000816075"></circle>
+    <circle r="21" cx="1204" cy="-446.2115606602131"></circle>
+    <circle r="19" cx="782" cy="-235.88911644626148"></circle>
+    <circle r="23" cx="262" cy="-265.6389804197712"></circle>
+    <circle r="26" cx="1043" cy="-208.1441659129572"></circle>
+    <circle r="22" cx="866" cy="-230.44170633958993"></circle>
+    <circle r="15" cx="1141" cy="-141.07274920877774"></circle>
+    <circle r="16" cx="1245" cy="-17.65950497431959"></circle>
+    <circle r="7" cx="150" cy="-178.55888876441531"></circle>
+    <circle r="7" cx="497" cy="-334.6823079363645"></circle>
+    <circle r="8" cx="584" cy="-241.1091200682124"></circle>
+    <circle r="7" cx="446" cy="-125.3007432208816"></circle>
+    <circle r="13" cx="592" cy="48.083651480371714"></circle>
+    <circle r="7" cx="578" cy="-368.7373773213777"></circle>
+    <circle r="12" cx="1115" cy="-373.01094671740054" style="fill:#b1a89e"></circle>
+    <circle r="26" cx="237" cy="198.6817154665223"></circle>
+    <circle r="14" cx="1053" cy="-142.41163013043547"></circle>
+    <circle r="4" cx="658" cy="-260.95617313162086"></circle>
+    <circle r="26" cx="973" cy="-126.91620328216993"></circle>
+    <circle r="19" cx="830" cy="-381.8018819493161"></circle>
+    <circle r="24" cx="626" cy="37.6659703204142"></circle>
+    <circle r="10" cx="1235" cy="-403.5882956029984"></circle>
+    <circle r="20" cx="151" cy="70.55852166188424"></circle>
+    <circle cx="357" cy="87.26481059570244" r="9"></circle>
+    <circle cx="0" cy="614.5" r="4"></circle>
+    <circle cx="-2" cy="279.5" r="7"></circle>
+    <circle cx="9" cy="-160.5" r="21"></circle>
+    <circle cx="-6" cy="564.5" r="25"></circle>
+    <circle cx="-7" cy="203.5" r="7"></circle>
+    <circle cx="-10" cy="67.5" r="21"></circle>
+    <circle cx="-1" cy="524.5" r="5"></circle>
+    <circle cx="-10" cy="191.5" r="16"></circle>
+    <circle cx="9" cy="526.5" r="5"></circle>
+    <circle cx="-1" cy="309.5" r="24"></circle>
+    <circle cx="-1" cy="104.5" r="12"></circle>
+    <circle cx="10" cy="305.5" r="18"></circle>
+    <circle cx="1" cy="477.5" r="16"></circle>
+    <circle cx="6" cy="171.5" r="13"></circle>
+    <circle cx="-7" cy="322.5" r="25"></circle>
+    <circle cx="2" cy="-76.5" r="19"></circle>
+    <circle cx="-5" cy="46.5" r="5"></circle>
+    <circle cx="6" cy="219.5" r="6"></circle>
+    <circle cx="-8" cy="302.5" r="13"></circle>
+    <circle cx="-7" cy="36.5" r="20"></circle>
+    <circle cx="-1" cy="348.5" r="16"></circle>
+    <circle cx="1" cy="464.5" r="4"></circle>
+    <circle cx="3" cy="650.5" r="23"></circle>
+    <circle cx="2" cy="25.5" r="12"></circle>
+    <circle cx="7" cy="126.5" r="24"></circle>
+    <circle cx="0" cy="32.5" r="26"></circle>
+    <circle cx="-2" cy="406.5" r="16"></circle>
+    <circle cx="8" cy="257.5" r="22"></circle>
+    <circle cx="-2" cy="388.5" r="5"></circle>
+    <circle cx="5" cy="351.5" r="21"></circle>
+    <circle cx="10" cy="295.5" r="8"></circle>
+    <circle cx="-3" cy="459.5" r="9"></circle>
+    <circle cx="-6" cy="88.5" r="17"></circle>
+    <circle cx="-6" cy="-43.5" r="26"></circle>
+    <circle cx="-1" cy="-38.5" r="24"></circle>
+    <circle cx="-10" cy="307.5" r="10"></circle>
+    <circle cx="9" cy="15.5" r="6"></circle>
+    <circle cx="-9" cy="233.5" r="18"></circle>
+    <circle cx="7" cy="379.5" r="15"></circle>
+    <circle cx="-7" cy="566.5" r="18"></circle>
+    <circle cx="1" cy="330.5" r="24"></circle>
+    <circle cx="4" cy="101.5" r="26"></circle>
+    <circle cx="4" cy="263.5" r="9"></circle>
+    <circle cx="-2" cy="468.5" r="24"></circle>
+    <circle cx="2" cy="285.5" r="5"></circle>
+    <circle cx="1" cy="639.5" r="6"></circle>
+    <circle cx="5" cy="424.5" r="16"></circle>
+    <circle cx="-7" cy="146.5" r="24"></circle>
+    <circle cx="-10" cy="172.5" r="4"></circle>
+    <circle cx="-6" cy="252.5" r="24"></circle>
+    <circle cx="-6" cy="-55.5" r="16"></circle>
+    <circle cx="3" cy="382.5" r="15"></circle>
+    <circle cx="7" cy="611.5" r="22"></circle>
+    <circle cx="-9" cy="98.5" r="22"></circle>
+    <circle cx="-9" cy="204.5" r="24"></circle>
+    <circle cx="5" cy="377.5" r="11"></circle>
+    <circle cx="3" cy="235.5" r="7"></circle>
+    <circle cx="0" cy="312.5" r="20"></circle>
+    <circle cx="-6" cy="410.5" r="9"></circle>
+    <circle cx="-1" cy="231.5" r="26"></circle>
+    <circle cx="-1" cy="582.5" r="20"></circle>
+    <circle cx="-2" cy="524.5" r="12"></circle>
+    <circle cx="-5" cy="121.5" r="16"></circle>
+    <circle cx="9" cy="-110.5" r="17"></circle>
+    <circle cx="9" cy="488.5" r="19"></circle>
+    <circle cx="0" cy="180.5" r="11"></circle>
+    <circle cx="9" cy="153.5" r="4"></circle>
+    <circle cx="5" cy="233.5" r="14"></circle>
+    <circle cx="8" cy="540.5" r="23"></circle>
+    <circle cx="1" cy="229.5" r="15"></circle>
+    <circle cx="1" cy="143.5" r="6"></circle>
+    <circle cx="0" cy="280.5" r="20"></circle>
+    <circle cx="3" cy="248.5" r="21"></circle>
+    <circle cx="5" cy="70.5" r="25"></circle>
+    <circle cx="-9" cy="399.5" r="8"></circle>
+    <circle cx="0" cy="403.5" r="9"></circle>
+    <circle cx="-5" cy="234.5" r="11"></circle>
+    <circle cx="-9" cy="342.5" r="24"></circle>
+    <circle cx="-8" cy="6.5" r="5"></circle>
+    <circle cx="-10" cy="17.5" r="20"></circle>
+    <circle cx="-4" cy="293.5" r="11"></circle>
+    <circle cx="-7" cy="-18.5" r="24"></circle>
+    <circle cx="10" cy="171.5" r="12"></circle>
+    <circle cx="4" cy="290.5" r="16"></circle>
+    <circle cx="7" cy="489.5" r="17"></circle>
+    <circle cx="3" cy="404.5" r="11"></circle>
+    <circle cx="-7" cy="359.5" r="16"></circle>
+    <circle cx="2" cy="19.5" r="8"></circle>
+    <circle cx="7" cy="277.5" r="16"></circle>
+    <circle cx="2" cy="164.5" r="19"></circle>
+    <circle cx="9" cy="35.5" r="7"></circle>
+    <circle cx="-1" cy="142.5" r="26"></circle>
+    <circle cx="10" cy="345.5" r="7"></circle>
+    <circle cx="1" cy="409.5" r="10"></circle>
+    <circle cx="-10" cy="155.5" r="4"></circle>
+    <circle cx="-8" cy="-9.5" r="23"></circle>
+    <circle cx="-3" cy="184.5" r="19"></circle>
+    <circle cx="-8" cy="294.5" r="25"></circle>
+    <circle cx="-7" cy="254.5" r="15"></circle>
+</svg>
