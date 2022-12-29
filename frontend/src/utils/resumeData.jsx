@@ -89,7 +89,7 @@ export default {
         }
     ],
 
-    skills: [
+     : [
         {
             title: "FRONT-END",
             description: ["ReactJS", "JavaScript", "TypeScript", "Bootstrap", "Material UI"]
