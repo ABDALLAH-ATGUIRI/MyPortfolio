@@ -1,0 +1,3 @@
+npx create-react-app frontend
+docker build --tag react create .
+docker-compose run app

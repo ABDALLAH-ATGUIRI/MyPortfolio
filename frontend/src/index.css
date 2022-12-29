@@ -8,9 +8,9 @@ body {
     "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #fafafa;
+  background-color: #8a8686;
   overflow-x: hidden;
-  background: url(./assets/svg/bg.svg);
+  /* background: url(./assets/svg/bg.svg); */
   background-repeat: no-repeat;
 }
 
