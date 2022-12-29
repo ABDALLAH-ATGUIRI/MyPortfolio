@@ -80,7 +80,7 @@ export default {
         {
             title: "Web Dev",
             description: "i have a been web developer for 2 years",
-            icon: <AssessmentOutlined/>
+            icon: <AssessmentOutlined />
         },
         {
             title: "Web Dev",
@@ -89,7 +89,7 @@ export default {
         }
     ],
 
-     : [
+    skills: [
         {
             title: "FRONT-END",
             description: ["ReactJS", "JavaScript", "TypeScript", "Bootstrap", "Material UI"]
