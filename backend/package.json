@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
@@ -30,5 +29,7 @@
     "sharp": "^0.31.2",
     "uuid": "^9.0.0",
     "validator": "^13.7.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }

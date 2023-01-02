@@ -1,16 +1,72 @@
 const express = require("express");
 const cors = require("cors");
+require('dotenv').config()
 const database = require("./config/database.js");
 const { graphqlHTTP } = require("express-graphql");
-const userRouter = require("./api/users/user.router.js");
-const adminRouter = require("./api/admin/admin.router.js");
 const AppError = require("./helpers/appError.js");
 const errorHandler = require("./helpers/ErrorHandler.js");
-const dotenv = require("dotenv");
-const schema = require("./api/schema/schema.js");
+const userData = require("./Portfolio.json");
+const {
+  GraphQLSchema,
+  GraphQLObjectType,
+  GraphQLInt,
+  GraphQLString,
+  GraphQLList
+} = require("graphql");
 
-dotenv.config();
+
 database.pool();
+
+const UserType = new GraphQLObjectType({
+  name: "User",
+  fields: () => ({
+    id: { type: GraphQLInt },
+    firstName: { type: GraphQLString },
+    lastName: { type: GraphQLString },
+    email: { type: GraphQLString },
+    password: { type: GraphQLString }
+  })
+});
+
+const RootQuery = new GraphQLObjectType({
+  name: "RootQueryType",
+  fields: {
+    getAllUsers: {
+      type: new GraphQLList(UserType),
+      args: { id: { type: GraphQLInt } },
+      resolve(parent, args) {
+        return userData;
+      }
+    }
+  }
+});
+
+const Mutation = new GraphQLObjectType({
+  name: "Mutation",
+  fields: {
+    createUser: {
+      type: UserType,
+      args: {
+        firstName: { type: GraphQLString },
+        lastName: { type: GraphQLString },
+        email: { type: GraphQLString },
+        password: { type: GraphQLString }
+      },
+      resolve(parent, args) {
+        userData.push({
+          id: userData.length + 1,
+          firstName: args.firstName,
+          lastName: args.lastName,
+          email: args.email,
+          password: args.password
+        });
+        return args
+      }
+    }
+  }
+});
+
+const schema = new GraphQLSchema({ query: RootQuery, mutation: Mutation });
 
 const app = express();
 const port = process.env.PORT || 5000;
@@ -27,7 +83,7 @@ app.use(
 app.get("/", (req, res) => {
   res.json({
     success: 1,
-    message: "I am listening on port " + process.env.PORT
+    message: "I am listening on port " + port
   });
 });
 
@@ -41,6 +97,6 @@ app.all("*", (req, res, next) => {
 
 app.use(errorHandler.messageErr);
 
-app.listen(process.env.APP_PORT, () => {
-  console.log("Server up and running on PORT : ", process.env.APP_PORT);
+app.listen(port, () => {
+  console.log("Server up and running on PORT : ", port);
 });
